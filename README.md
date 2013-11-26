@@ -12,9 +12,12 @@ The star of this folder is an IPython notebook that contains all of the statisti
 2014_Osler_Data
 -------------------------------
 This folder contains three files:
-  1 *Simpson_Island_alldata.xlsx* This excel spreadsheet has all of the specimen level data and details the flow mean calculations. It also contains the worksheets that will be used to contribute these data to the MagIC database when the paper is accepted.
-  2 *SimpsonIsland_OslerData.csv* This csv file contains the flow (i.e. site) mean paleomagnetic data as well as the locations of the flows stratigraphical and geographically (lat, long is in WGS84).
-  3 *Halls1974_Osler_reversed.csv* This csv file contains the longitude and latitude of the virtual geomagnetic poles from the Halls (1974) study of the Osler Volcanics that come from the reversedly magnetized portion of the stratigraphy below the angular unconformity.
+### Simpson_Island_alldata.xlsx ###
+This excel spreadsheet has all of the specimen level data and details the flow mean calculations. It also contains the worksheets that will be used to contribute these data to the MagIC database when the paper is accepted.
+### SimpsonIsland_OslerData.csv ###
+This csv file contains the flow (i.e. site) mean paleomagnetic data as well as the locations of the flows stratigraphical and geographically (lat, long is in WGS84).
+### Halls1974_Osler_reversed.csv ###
+This csv file contains the longitude and latitude of the virtual geomagnetic poles from the Halls (1974) study of the Osler Volcanics that come from the reversedly magnetized portion of the stratigraphy below the angular unconformity.
   
 2014_Osler_Manuscript
 -------------------------------
