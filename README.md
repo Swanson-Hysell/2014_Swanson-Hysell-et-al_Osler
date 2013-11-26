@@ -1,6 +1,6 @@
 Overview
 ===============================
-This repository contains a manuscript in preperation for submission to the American Geophysical Union journal entitled "Geochemistry Geophysic Geosystems" along with the raw data and code used for the manuscript's data analysis. The manuscript is entitled "Significant plate motion during the early magmatic stage of North American Midcontinent Rift development" with the authors being: Nicholas. L. Swanson-Hysell, Angus A. Vaughan, Monica R. Mustain, and Kristofer Asp.
+This repository contains a manuscript in preparation for submission to the American Geophysical Union journal entitled "Geochemistry Geophysic Geosystems" along with the raw data and code used for the manuscript's data analysis. The manuscript is entitled "Significant plate motion during the early magmatic stage of North American Midcontinent Rift development" with the authors being: Nicholas. L. Swanson-Hysell, Angus A. Vaughan, Monica R. Mustain, and Kristofer Asp.
 
 Contents
 ===============================
@@ -17,7 +17,7 @@ This excel spreadsheet has all of the specimen level data and details the flow m
 ### SimpsonIsland_OslerData.csv ###
 This csv file contains the flow (i.e. site) mean paleomagnetic data as well as the locations of the flows stratigraphical and geographically (lat, long is in WGS84).
 ### Halls1974_Osler_reversed.csv ###
-This csv file contains the longitude and latitude of the virtual geomagnetic poles from the Halls (1974) study of the Osler Volcanics that come from the reversedly magnetized portion of the stratigraphy below the angular unconformity.
+This csv file contains the longitude and latitude of the virtual geomagnetic poles from the Halls (1974) study of the Osler Volcanics that come from the reversed magnetization portion of the stratigraphy below the angular unconformity.
   
 2014_Osler_Manuscript
 -------------------------------
