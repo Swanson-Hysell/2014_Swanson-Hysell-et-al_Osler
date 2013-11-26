@@ -1,0 +1,18 @@
+Results of Watson V test: 
+
+Watson's V:           2.6
+Critical value of V:  6.3
+"Pass": Since V is less than Vcrit, the null hypothesis
+that the two populations are drawn from distributions
+that share a common mean direction can not be rejected.
+
+M&M1990 classification:
+
+Angle between data set means: 4.1
+Critical angle for M&M1990:   6.4
+The McFadden and McElhinny (1990) classification for
+this test is: 'B'
+
+===============
+
+Here are the results of the bootstrap test for a common mean
