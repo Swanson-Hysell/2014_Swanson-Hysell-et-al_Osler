@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  25 NOV 2013 16:10
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  26 NOV 2013 10:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -223,7 +223,7 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 ))
 \Gin@req@height=\dimen156
 \Gin@req@width=\dimen157
-) (/Users/polarwander/Desktop/2014_Swanson-Hysell_et-al_Osler/2014_Osler_Manuscript_Files/.texpadtmp/2014_Osler_Manuscript.aux)
+) (/Users/polarwander/2014_Swanson-Hysell-et-al_Osler/2014_Osler_Manuscript_Files/.texpadtmp/2014_Osler_Manuscript.aux)
 \openout1 = `2014_Osler_Manuscript.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 114.
@@ -345,17 +345,17 @@ File: 2014_Osler_Figures/OslerStrat&EA.pdf Graphic file (type pdf)
  <use 2014_Osler_Figures/OslerStrat&EA.pdf>
 Package pdftex.def Info: 2014_Osler_Figures/OslerStrat&EA.pdf used on input line 534.
 (pdftex.def)             Requested size: 393.6015pt x 358.0062pt.
- [19 <./2014_Osler_Figures/Simpson_Island_Map.pdf>] [20 <./2014_Osler_Figures/PmagRockmag.pdf>] [21 <./2014_Osler_Figures/OslerStrat&EA.pdf>] (/Users/polarwander/Desktop/2014_Swanson-Hysell_et-al_Osler/2014_Osler_Manuscript_Files/.texpadtmp/2014_Osler_Manuscript.aux) ) 
+ [19 <./2014_Osler_Figures/Simpson_Island_Map.pdf>] [20 <./2014_Osler_Figures/PmagRockmag.pdf>] [21 <./2014_Osler_Figures/OslerStrat&EA.pdf>] (/Users/polarwander/2014_Swanson-Hysell-et-al_Osler/2014_Osler_Manuscript_Files/.texpadtmp/2014_Osler_Manuscript.aux) ) 
 Here is how much of TeX's memory you used:
  2608 strings out of 493315
- 36354 string characters out of 6137904
+ 36298 string characters out of 6137904
  114248 words of memory out of 5000000
  6059 multiletter control sequences out of 15000+600000
  13617 words of font info for 47 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 37i,6n,24p,3550b,437s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,6n,24p,3548b,437s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on /Users/polarwander/Desktop/2014_Swanson-Hysell_et-al_Osler/2014_Osler_Manuscript_Files/.texpadtmp/2014_Osler_Manuscript.pdf (21 pages, 1614593 bytes).
+Output written on /Users/polarwander/2014_Swanson-Hysell-et-al_Osler/2014_Osler_Manuscript_Files/.texpadtmp/2014_Osler_Manuscript.pdf (21 pages, 1614601 bytes).
 PDF statistics:
  273 PDF objects out of 1000 (max. 8388607)
  141 compressed objects within 2 object streams
