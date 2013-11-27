@@ -1,16 +1,5 @@
-Results of Watson V test: 
+The fisher mean parameters for SI_Lower500m_Directions are: 
+{'csd': 6.1620447880184264, 'k': 172.79068906699587, 'n': 17, 'r': 16.907402417998366, 'alpha95': 2.7213037577811798, 'dec': 89.559211694218391, 'inc': -69.03709846618041}
 
-Watson's V:           50.4
-Critical value of V:  6.7
-"Fail": Since V is greater than Vcrit, the two means can
-be distinguished at the 95% confidence level.
-
-M&M1990 classification:
-
-Angle between data set means: 14.8
-Critical angle for M&M1990:   5.4
-
-
-===============
-
-Here are the results of the bootstrap test for a common mean
+The fisher mean parameters for SI_Upper500m_Directions are: 
+{'csd': 10.397718441452353, 'k': 60.686757213380318, 'n': 17, 'r': 16.736351047004497, 'alpha95': 4.6160969512802765, 'dec': 106.9155955500684, 'inc': -56.37171406134344}
