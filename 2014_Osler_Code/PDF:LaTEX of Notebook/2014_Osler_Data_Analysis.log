@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  25 NOV 2013 17:06
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  27 NOV 2013 12:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1506,29 +1506,29 @@ Writing index file 2014_Osler_Data_Analysis.idx
 (./2014_Osler_Data_Analysis.aux)
 \openout1 = `2014_Osler_Data_Analysis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 227.
-LaTeX Font Info:    ... okay on input line 227.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 227.
-LaTeX Font Info:    ... okay on input line 227.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 227.
-LaTeX Font Info:    ... okay on input line 227.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 227.
-LaTeX Font Info:    ... okay on input line 227.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 227.
-LaTeX Font Info:    ... okay on input line 227.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 227.
-LaTeX Font Info:    ... okay on input line 227.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 227.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 227.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 224.
+LaTeX Font Info:    ... okay on input line 224.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 224.
+LaTeX Font Info:    ... okay on input line 224.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 224.
+LaTeX Font Info:    ... okay on input line 224.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 224.
+LaTeX Font Info:    ... okay on input line 224.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 224.
+LaTeX Font Info:    ... okay on input line 224.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 224.
+LaTeX Font Info:    ... okay on input line 224.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 224.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 224.
 
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 227.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 227.
-LaTeX Font Info:    ... okay on input line 227.
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 227.
+LaTeX Font Info:    ... okay on input line 224.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 224.
+LaTeX Font Info:    ... okay on input line 224.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 224.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
@@ -1562,7 +1562,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \AtBeginShipoutBox=\box74
-Package hyperref Info: Link coloring ON on input line 227.
+Package hyperref Info: Link coloring ON on input line 224.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1572,9 +1572,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count197
 )
-LaTeX Info: Redefining \ref on input line 227.
-LaTeX Info: Redefining \pageref on input line 227.
-LaTeX Info: Redefining \nameref on input line 227.
+LaTeX Info: Redefining \ref on input line 224.
+LaTeX Info: Redefining \pageref on input line 224.
+LaTeX Info: Redefining \nameref on input line 224.
 
 (./2014_Osler_Data_Analysis.out) (./2014_Osler_Data_Analysis.out)
 \@outlinefile=\write7
@@ -1600,7 +1600,7 @@ Package ucs Warning: ***************************
 (ucs)                ***************************
 (ucs)                Activating compatibility mode.
 (ucs)                ***************************
-(ucs)                 on input line 227.
+(ucs)                 on input line 224.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/ucs/utf8x.def
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
@@ -1608,30 +1608,30 @@ File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 ABD: EveryShipout initializing macros
 \c@lstlisting=\count198
 
-Underfull \hbox (badness 10000) in paragraph at lines 231--231
+Underfull \hbox (badness 10000) in paragraph at lines 228--228
 
  []
 
-LaTeX Font Info:    Try loading font information for T1+phv on input line 231.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 228.
 (/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <24.88> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 231.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 228.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 231.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 228.
 LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <12> not available
-(Font)              Font shape `T1/phv/b/it' tried instead on input line 231.
+(Font)              Font shape `T1/phv/b/it' tried instead on input line 228.
 LaTeX Font Info:    Font shape `T1/phv/b/it' in size <12> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 231.
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 228.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 231.
-LaTeX Font Info:    Try loading font information for U+msa on input line 231.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 228.
+LaTeX Font Info:    Try loading font information for U+msa on input line 228.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 231.
+LaTeX Font Info:    Try loading font information for U+msb on input line 228.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1640,3120 +1640,3131 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 LaTeX Warning: No \author given.
 
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 237.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 234.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20.74> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 237.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 234.
 
-Package xcolor Warning: Incompatible color definition on input line 238.
+Package xcolor Warning: Incompatible color definition on input line 235.
 
 
-Package xcolor Warning: Incompatible color definition on input line 238.
+Package xcolor Warning: Incompatible color definition on input line 235.
 
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 242.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 239.
 
-Package xcolor Warning: Incompatible color definition on input line 251.
+Package xcolor Warning: Incompatible color definition on input line 243.
 
-
-Package xcolor Warning: Incompatible color definition on input line 251.
-
-LaTeX Font Info:    Try loading font information for T1+pcr on input line 268.
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 243.
 (/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
-Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 270.
-LaTeX Font Info:    Font shape `T1/pcr/m/it' in size <9.5> not available
-(Font)              Font shape `T1/pcr/m/sl' tried instead on input line 273.
-LaTeX Font Info:    Font shape `T1/pcr/bx/n' in size <9.5> not available
-(Font)              Font shape `T1/pcr/b/n' tried instead on input line 274.
- [1
+
+Package xcolor Warning: Incompatible color definition on input line 251.
+
+
+Package xcolor Warning: Incompatible color definition on input line 255.
+
+
+Package xcolor Warning: Incompatible color definition on input line 260.
+
+
+Package xcolor Warning: Incompatible color definition on input line 269.
+
+
+Package xcolor Warning: Incompatible color definition on input line 269.
+
+[1
 
 {/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 293.
+(mdframed)             works with oneside mode on input line 288.
+LaTeX Font Info:    Font shape `T1/pcr/m/it' in size <9.5> not available
+(Font)              Font shape `T1/pcr/m/sl' tried instead on input line 291.
+LaTeX Font Info:    Font shape `T1/pcr/bx/n' in size <9.5> not available
+(Font)              Font shape `T1/pcr/b/n' tried instead on input line 292.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 315.
+(mdframed)             works with oneside mode on input line 311.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 333.
 
 
-Package xcolor Warning: Incompatible color definition on input line 324.
+Package xcolor Warning: Incompatible color definition on input line 342.
 
 
-Package xcolor Warning: Incompatible color definition on input line 324.
+Package xcolor Warning: Incompatible color definition on input line 342.
 
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 360.
+(mdframed)             works with oneside mode on input line 378.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 387.
+(mdframed)             works with oneside mode on input line 405.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 404.
+(mdframed)             works with oneside mode on input line 422.
 
-Overfull \hbox (13.72313pt too wide) in paragraph at lines 408--408
+Overfull \hbox (13.72313pt too wide) in paragraph at lines 426--426
 []\T1/pcr/m/n/9.5 SimpsonIsland_Strat []=[] np[].[]genfromtxt(data_file,delimit
 er[]=[][]"[][],[][]"[], skip_header[]=[][]1[])[] 
  []
 
 
-Package xcolor Warning: Incompatible color definition on input line 426.
+Package xcolor Warning: Incompatible color definition on input line 444.
 
 
-Package xcolor Warning: Incompatible color definition on input line 426.
+Package xcolor Warning: Incompatible color definition on input line 444.
 
 [2]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 439.
+(mdframed)             works with oneside mode on input line 457.
  [3]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 540.
+(mdframed)             works with oneside mode on input line 558.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 560.
+(mdframed)             works with oneside mode on input line 578.
 
-<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_15_1.png, id=130, 657.
+<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_15_1.png, id=138, 657.
 45625pt x 674.52pt>
 File: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_15_1.png Graphic 
 file (type png)
 
 <use 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_15_1.png>
 Package pdftex.def Info: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysi
-s_15_1.png used on input line 563.
+s_15_1.png used on input line 581.
 (pdftex.def)             Requested size: 657.45465pt x 674.51836pt.
  [4]
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 572.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 590.
 
 
-Package xcolor Warning: Incompatible color definition on input line 572.
+Package xcolor Warning: Incompatible color definition on input line 590.
 
 
-Package xcolor Warning: Incompatible color definition on input line 572.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 589--596
-
- []
+Package xcolor Warning: Incompatible color definition on input line 590.
 
 [5 <./2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_15_1.png>]
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 596.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 621.
 
 
-Package xcolor Warning: Incompatible color definition on input line 596.
+Package xcolor Warning: Incompatible color definition on input line 621.
 
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 605.
+(mdframed)             works with oneside mode on input line 630.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 628.
+(mdframed)             works with oneside mode on input line 653.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 652.
+(mdframed)             works with oneside mode on input line 677.
 
-<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_19_1.png, id=144, 282.
+<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_19_1.png, id=154, 282.
 05376pt x 272.01625pt>
 File: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_19_1.png Graphic 
 file (type png)
 
 <use 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_19_1.png>
 Package pdftex.def Info: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysi
-s_19_1.png used on input line 655.
+s_19_1.png used on input line 680.
 (pdftex.def)             Requested size: 282.05305pt x 272.01558pt.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 661.
+(mdframed)             works with oneside mode on input line 686.
 
-<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_19_2.png, id=145, 282.
+<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_19_2.png, id=155, 282.
 05376pt x 272.01625pt>
 File: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_19_2.png Graphic 
 file (type png)
 
 <use 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_19_2.png>
 Package pdftex.def Info: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysi
-s_19_2.png used on input line 664.
+s_19_2.png used on input line 689.
 (pdftex.def)             Requested size: 282.05305pt x 272.01558pt.
-Package mdframed Info: Not enough space on this page on input line 668.
  [6 <./2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_19_1.png>]
-Package mdframed Info: Not enough space on this page on input line 668.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 670.
+(mdframed)             works with oneside mode on input line 695.
 
-<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_19_3.png, id=151, 286.
+<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_19_3.png, id=161, 286.
 06876pt x 272.01625pt>
 File: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_19_3.png Graphic 
 file (type png)
 
 <use 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_19_3.png>
 Package pdftex.def Info: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysi
-s_19_3.png used on input line 673.
+s_19_3.png used on input line 698.
 (pdftex.def)             Requested size: 286.06805pt x 272.01558pt.
 
 
-Package xcolor Warning: Incompatible color definition on input line 682.
+Package xcolor Warning: Incompatible color definition on input line 707.
 
 [7 <./2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_19_2.png> <./2014
 _Osler_Data_Analysis_files/2014_Osler_Data_Analysis_19_3.png>]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 691.
+(mdframed)             works with oneside mode on input line 716.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 714.
+(mdframed)             works with oneside mode on input line 739.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 738.
+(mdframed)             works with oneside mode on input line 763.
 
-<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_21_1.png, id=159, 282.
+<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_21_1.png, id=169, 282.
 05376pt x 272.01625pt>
 File: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_21_1.png Graphic 
 file (type png)
 
 <use 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_21_1.png>
 Package pdftex.def Info: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysi
-s_21_1.png used on input line 741.
+s_21_1.png used on input line 766.
 (pdftex.def)             Requested size: 282.05305pt x 272.01558pt.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 747.
+(mdframed)             works with oneside mode on input line 772.
 
-<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_21_2.png, id=160, 282.
+<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_21_2.png, id=170, 282.
 05376pt x 272.01625pt>
 File: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_21_2.png Graphic 
 file (type png)
 
 <use 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_21_2.png>
 Package pdftex.def Info: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysi
-s_21_2.png used on input line 750.
+s_21_2.png used on input line 775.
 (pdftex.def)             Requested size: 282.05305pt x 272.01558pt.
 
-Overfull \vbox (178.17392pt too high) detected at line 754
+Overfull \vbox (178.17392pt too high) detected at line 779
  []
 
 Package mdframed Info: Box was splittet wrong
  starting loop to iterate the splitting point
-(mdframed)              on input line 754.
+(mdframed)              on input line 779.
 
-Overfull \vbox (179.17392pt too high) detected at line 754
+Overfull \vbox (179.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (180.17392pt too high) detected at line 754
+Overfull \vbox (180.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (181.17392pt too high) detected at line 754
+Overfull \vbox (181.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (182.17392pt too high) detected at line 754
+Overfull \vbox (182.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (183.17392pt too high) detected at line 754
+Overfull \vbox (183.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (184.17392pt too high) detected at line 754
+Overfull \vbox (184.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (185.17392pt too high) detected at line 754
+Overfull \vbox (185.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (186.17392pt too high) detected at line 754
+Overfull \vbox (186.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (187.17392pt too high) detected at line 754
+Overfull \vbox (187.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (188.17392pt too high) detected at line 754
+Overfull \vbox (188.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (189.17392pt too high) detected at line 754
+Overfull \vbox (189.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (190.17392pt too high) detected at line 754
+Overfull \vbox (190.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (191.17392pt too high) detected at line 754
+Overfull \vbox (191.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (192.17392pt too high) detected at line 754
+Overfull \vbox (192.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (193.17392pt too high) detected at line 754
+Overfull \vbox (193.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (194.17392pt too high) detected at line 754
+Overfull \vbox (194.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (195.17392pt too high) detected at line 754
+Overfull \vbox (195.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (196.17392pt too high) detected at line 754
+Overfull \vbox (196.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (197.17392pt too high) detected at line 754
+Overfull \vbox (197.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (198.17392pt too high) detected at line 754
+Overfull \vbox (198.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (199.17392pt too high) detected at line 754
+Overfull \vbox (199.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (200.17392pt too high) detected at line 754
+Overfull \vbox (200.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (201.17392pt too high) detected at line 754
+Overfull \vbox (201.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (202.17392pt too high) detected at line 754
+Overfull \vbox (202.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (203.17392pt too high) detected at line 754
+Overfull \vbox (203.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (204.17392pt too high) detected at line 754
+Overfull \vbox (204.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (205.17392pt too high) detected at line 754
+Overfull \vbox (205.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (206.17392pt too high) detected at line 754
+Overfull \vbox (206.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (207.17392pt too high) detected at line 754
+Overfull \vbox (207.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (208.17392pt too high) detected at line 754
+Overfull \vbox (208.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (209.17392pt too high) detected at line 754
+Overfull \vbox (209.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (210.17392pt too high) detected at line 754
+Overfull \vbox (210.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (211.17392pt too high) detected at line 754
+Overfull \vbox (211.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (212.17392pt too high) detected at line 754
+Overfull \vbox (212.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (213.17392pt too high) detected at line 754
+Overfull \vbox (213.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (214.17392pt too high) detected at line 754
+Overfull \vbox (214.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (215.17392pt too high) detected at line 754
+Overfull \vbox (215.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (216.17392pt too high) detected at line 754
+Overfull \vbox (216.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (217.17392pt too high) detected at line 754
+Overfull \vbox (217.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (218.17392pt too high) detected at line 754
+Overfull \vbox (218.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (219.17392pt too high) detected at line 754
+Overfull \vbox (219.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (220.17392pt too high) detected at line 754
+Overfull \vbox (220.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (221.17392pt too high) detected at line 754
+Overfull \vbox (221.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (222.17392pt too high) detected at line 754
+Overfull \vbox (222.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (223.17392pt too high) detected at line 754
+Overfull \vbox (223.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (224.17392pt too high) detected at line 754
+Overfull \vbox (224.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (225.17392pt too high) detected at line 754
+Overfull \vbox (225.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (226.17392pt too high) detected at line 754
+Overfull \vbox (226.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (227.17392pt too high) detected at line 754
+Overfull \vbox (227.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (228.17392pt too high) detected at line 754
+Overfull \vbox (228.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (229.17392pt too high) detected at line 754
+Overfull \vbox (229.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (230.17392pt too high) detected at line 754
+Overfull \vbox (230.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (231.17392pt too high) detected at line 754
+Overfull \vbox (231.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (232.17392pt too high) detected at line 754
+Overfull \vbox (232.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (233.17392pt too high) detected at line 754
+Overfull \vbox (233.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (234.17392pt too high) detected at line 754
+Overfull \vbox (234.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (235.17392pt too high) detected at line 754
+Overfull \vbox (235.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (236.17392pt too high) detected at line 754
+Overfull \vbox (236.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (237.17392pt too high) detected at line 754
+Overfull \vbox (237.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (238.17392pt too high) detected at line 754
+Overfull \vbox (238.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (239.17392pt too high) detected at line 754
+Overfull \vbox (239.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (240.17392pt too high) detected at line 754
+Overfull \vbox (240.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (241.17392pt too high) detected at line 754
+Overfull \vbox (241.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (242.17392pt too high) detected at line 754
+Overfull \vbox (242.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (243.17392pt too high) detected at line 754
+Overfull \vbox (243.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (244.17392pt too high) detected at line 754
+Overfull \vbox (244.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (245.17392pt too high) detected at line 754
+Overfull \vbox (245.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (246.17392pt too high) detected at line 754
+Overfull \vbox (246.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (247.17392pt too high) detected at line 754
+Overfull \vbox (247.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (248.17392pt too high) detected at line 754
+Overfull \vbox (248.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (249.17392pt too high) detected at line 754
+Overfull \vbox (249.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (250.17392pt too high) detected at line 754
+Overfull \vbox (250.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (251.17392pt too high) detected at line 754
+Overfull \vbox (251.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (252.17392pt too high) detected at line 754
+Overfull \vbox (252.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (253.17392pt too high) detected at line 754
+Overfull \vbox (253.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (254.17392pt too high) detected at line 754
+Overfull \vbox (254.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (255.17392pt too high) detected at line 754
+Overfull \vbox (255.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (256.17392pt too high) detected at line 754
+Overfull \vbox (256.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (257.17392pt too high) detected at line 754
+Overfull \vbox (257.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (258.17392pt too high) detected at line 754
+Overfull \vbox (258.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (259.17392pt too high) detected at line 754
+Overfull \vbox (259.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (260.17392pt too high) detected at line 754
+Overfull \vbox (260.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (261.17392pt too high) detected at line 754
+Overfull \vbox (261.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (262.17392pt too high) detected at line 754
+Overfull \vbox (262.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (263.17392pt too high) detected at line 754
+Overfull \vbox (263.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (264.17392pt too high) detected at line 754
+Overfull \vbox (264.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (265.17392pt too high) detected at line 754
+Overfull \vbox (265.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (266.17392pt too high) detected at line 754
+Overfull \vbox (266.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (267.17392pt too high) detected at line 754
+Overfull \vbox (267.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (268.17392pt too high) detected at line 754
+Overfull \vbox (268.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (269.17392pt too high) detected at line 754
+Overfull \vbox (269.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (270.17392pt too high) detected at line 754
+Overfull \vbox (270.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (271.17392pt too high) detected at line 754
+Overfull \vbox (271.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (272.17392pt too high) detected at line 754
+Overfull \vbox (272.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (273.17392pt too high) detected at line 754
+Overfull \vbox (273.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (274.17392pt too high) detected at line 754
+Overfull \vbox (274.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (275.17392pt too high) detected at line 754
+Overfull \vbox (275.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (276.17392pt too high) detected at line 754
+Overfull \vbox (276.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (277.17392pt too high) detected at line 754
+Overfull \vbox (277.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (278.17392pt too high) detected at line 754
+Overfull \vbox (278.17392pt too high) detected at line 779
  []
 
 
-Overfull \vbox (279.17392pt too high) detected at line 754
+Overfull \vbox (279.17392pt too high) detected at line 779
  []
 
 
 Package mdframed Warning: correct box splittet fails
  It seems you are using a non splittable contents
-(mdframed)                 on input line 754.
+(mdframed)                 on input line 779.
 
 Package mdframed Info: You first box width is to small
  mdframed fixed it
-(mdframed)              on input line 754.
+(mdframed)              on input line 779.
 [8 <./2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_21_1.png>]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 756.
+(mdframed)             works with oneside mode on input line 781.
 
-<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_21_3.png, id=166, 286.
+<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_21_3.png, id=176, 286.
 06876pt x 272.01625pt>
 File: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_21_3.png Graphic 
 file (type png)
 
 <use 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_21_3.png>
 Package pdftex.def Info: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysi
-s_21_3.png used on input line 759.
+s_21_3.png used on input line 784.
 (pdftex.def)             Requested size: 286.06805pt x 272.01558pt.
 
 
-Package xcolor Warning: Incompatible color definition on input line 768.
+Package xcolor Warning: Incompatible color definition on input line 793.
 
 [9 <./2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_21_2.png> <./2014
 _Osler_Data_Analysis_files/2014_Osler_Data_Analysis_21_3.png>]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 777.
+(mdframed)             works with oneside mode on input line 802.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 800.
+(mdframed)             works with oneside mode on input line 825.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 822.
+(mdframed)             works with oneside mode on input line 847.
 
-<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_23_1.png, id=173, 282.
+<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_23_1.png, id=183, 282.
 05376pt x 272.01625pt>
 File: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_23_1.png Graphic 
 file (type png)
 
 <use 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_23_1.png>
 Package pdftex.def Info: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysi
-s_23_1.png used on input line 825.
+s_23_1.png used on input line 850.
 (pdftex.def)             Requested size: 282.05305pt x 272.01558pt.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 831.
+(mdframed)             works with oneside mode on input line 856.
 
-<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_23_2.png, id=174, 282.
+<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_23_2.png, id=184, 282.
 05376pt x 272.01625pt>
 File: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_23_2.png Graphic 
 file (type png)
 
 <use 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_23_2.png>
 Package pdftex.def Info: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysi
-s_23_2.png used on input line 834.
+s_23_2.png used on input line 859.
 (pdftex.def)             Requested size: 282.05305pt x 272.01558pt.
 
-Overfull \vbox (154.17392pt too high) detected at line 838
+Overfull \vbox (154.17392pt too high) detected at line 863
  []
 
 Package mdframed Info: Box was splittet wrong
  starting loop to iterate the splitting point
-(mdframed)              on input line 838.
+(mdframed)              on input line 863.
 
-Overfull \vbox (155.17392pt too high) detected at line 838
+Overfull \vbox (155.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (156.17392pt too high) detected at line 838
+Overfull \vbox (156.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (157.17392pt too high) detected at line 838
+Overfull \vbox (157.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (158.17392pt too high) detected at line 838
+Overfull \vbox (158.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (159.17392pt too high) detected at line 838
+Overfull \vbox (159.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (160.17392pt too high) detected at line 838
+Overfull \vbox (160.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (161.17392pt too high) detected at line 838
+Overfull \vbox (161.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (162.17392pt too high) detected at line 838
+Overfull \vbox (162.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (163.17392pt too high) detected at line 838
+Overfull \vbox (163.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (164.17392pt too high) detected at line 838
+Overfull \vbox (164.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (165.17392pt too high) detected at line 838
+Overfull \vbox (165.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (166.17392pt too high) detected at line 838
+Overfull \vbox (166.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (167.17392pt too high) detected at line 838
+Overfull \vbox (167.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (168.17392pt too high) detected at line 838
+Overfull \vbox (168.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (169.17392pt too high) detected at line 838
+Overfull \vbox (169.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (170.17392pt too high) detected at line 838
+Overfull \vbox (170.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (171.17392pt too high) detected at line 838
+Overfull \vbox (171.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (172.17392pt too high) detected at line 838
+Overfull \vbox (172.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (173.17392pt too high) detected at line 838
+Overfull \vbox (173.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (174.17392pt too high) detected at line 838
+Overfull \vbox (174.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (175.17392pt too high) detected at line 838
+Overfull \vbox (175.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (176.17392pt too high) detected at line 838
+Overfull \vbox (176.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (177.17392pt too high) detected at line 838
+Overfull \vbox (177.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (178.17392pt too high) detected at line 838
+Overfull \vbox (178.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (179.17392pt too high) detected at line 838
+Overfull \vbox (179.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (180.17392pt too high) detected at line 838
+Overfull \vbox (180.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (181.17392pt too high) detected at line 838
+Overfull \vbox (181.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (182.17392pt too high) detected at line 838
+Overfull \vbox (182.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (183.17392pt too high) detected at line 838
+Overfull \vbox (183.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (184.17392pt too high) detected at line 838
+Overfull \vbox (184.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (185.17392pt too high) detected at line 838
+Overfull \vbox (185.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (186.17392pt too high) detected at line 838
+Overfull \vbox (186.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (187.17392pt too high) detected at line 838
+Overfull \vbox (187.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (188.17392pt too high) detected at line 838
+Overfull \vbox (188.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (189.17392pt too high) detected at line 838
+Overfull \vbox (189.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (190.17392pt too high) detected at line 838
+Overfull \vbox (190.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (191.17392pt too high) detected at line 838
+Overfull \vbox (191.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (192.17392pt too high) detected at line 838
+Overfull \vbox (192.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (193.17392pt too high) detected at line 838
+Overfull \vbox (193.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (194.17392pt too high) detected at line 838
+Overfull \vbox (194.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (195.17392pt too high) detected at line 838
+Overfull \vbox (195.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (196.17392pt too high) detected at line 838
+Overfull \vbox (196.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (197.17392pt too high) detected at line 838
+Overfull \vbox (197.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (198.17392pt too high) detected at line 838
+Overfull \vbox (198.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (199.17392pt too high) detected at line 838
+Overfull \vbox (199.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (200.17392pt too high) detected at line 838
+Overfull \vbox (200.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (201.17392pt too high) detected at line 838
+Overfull \vbox (201.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (202.17392pt too high) detected at line 838
+Overfull \vbox (202.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (203.17392pt too high) detected at line 838
+Overfull \vbox (203.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (204.17392pt too high) detected at line 838
+Overfull \vbox (204.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (205.17392pt too high) detected at line 838
+Overfull \vbox (205.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (206.17392pt too high) detected at line 838
+Overfull \vbox (206.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (207.17392pt too high) detected at line 838
+Overfull \vbox (207.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (208.17392pt too high) detected at line 838
+Overfull \vbox (208.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (209.17392pt too high) detected at line 838
+Overfull \vbox (209.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (210.17392pt too high) detected at line 838
+Overfull \vbox (210.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (211.17392pt too high) detected at line 838
+Overfull \vbox (211.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (212.17392pt too high) detected at line 838
+Overfull \vbox (212.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (213.17392pt too high) detected at line 838
+Overfull \vbox (213.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (214.17392pt too high) detected at line 838
+Overfull \vbox (214.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (215.17392pt too high) detected at line 838
+Overfull \vbox (215.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (216.17392pt too high) detected at line 838
+Overfull \vbox (216.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (217.17392pt too high) detected at line 838
+Overfull \vbox (217.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (218.17392pt too high) detected at line 838
+Overfull \vbox (218.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (219.17392pt too high) detected at line 838
+Overfull \vbox (219.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (220.17392pt too high) detected at line 838
+Overfull \vbox (220.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (221.17392pt too high) detected at line 838
+Overfull \vbox (221.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (222.17392pt too high) detected at line 838
+Overfull \vbox (222.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (223.17392pt too high) detected at line 838
+Overfull \vbox (223.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (224.17392pt too high) detected at line 838
+Overfull \vbox (224.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (225.17392pt too high) detected at line 838
+Overfull \vbox (225.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (226.17392pt too high) detected at line 838
+Overfull \vbox (226.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (227.17392pt too high) detected at line 838
+Overfull \vbox (227.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (228.17392pt too high) detected at line 838
+Overfull \vbox (228.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (229.17392pt too high) detected at line 838
+Overfull \vbox (229.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (230.17392pt too high) detected at line 838
+Overfull \vbox (230.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (231.17392pt too high) detected at line 838
+Overfull \vbox (231.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (232.17392pt too high) detected at line 838
+Overfull \vbox (232.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (233.17392pt too high) detected at line 838
+Overfull \vbox (233.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (234.17392pt too high) detected at line 838
+Overfull \vbox (234.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (235.17392pt too high) detected at line 838
+Overfull \vbox (235.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (236.17392pt too high) detected at line 838
+Overfull \vbox (236.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (237.17392pt too high) detected at line 838
+Overfull \vbox (237.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (238.17392pt too high) detected at line 838
+Overfull \vbox (238.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (239.17392pt too high) detected at line 838
+Overfull \vbox (239.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (240.17392pt too high) detected at line 838
+Overfull \vbox (240.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (241.17392pt too high) detected at line 838
+Overfull \vbox (241.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (242.17392pt too high) detected at line 838
+Overfull \vbox (242.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (243.17392pt too high) detected at line 838
+Overfull \vbox (243.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (244.17392pt too high) detected at line 838
+Overfull \vbox (244.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (245.17392pt too high) detected at line 838
+Overfull \vbox (245.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (246.17392pt too high) detected at line 838
+Overfull \vbox (246.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (247.17392pt too high) detected at line 838
+Overfull \vbox (247.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (248.17392pt too high) detected at line 838
+Overfull \vbox (248.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (249.17392pt too high) detected at line 838
+Overfull \vbox (249.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (250.17392pt too high) detected at line 838
+Overfull \vbox (250.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (251.17392pt too high) detected at line 838
+Overfull \vbox (251.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (252.17392pt too high) detected at line 838
+Overfull \vbox (252.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (253.17392pt too high) detected at line 838
+Overfull \vbox (253.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (254.17392pt too high) detected at line 838
+Overfull \vbox (254.17392pt too high) detected at line 863
  []
 
 
-Overfull \vbox (255.17392pt too high) detected at line 838
+Overfull \vbox (255.17392pt too high) detected at line 863
  []
 
 
 Package mdframed Warning: correct box splittet fails
  It seems you are using a non splittable contents
-(mdframed)                 on input line 838.
+(mdframed)                 on input line 863.
 
 Package mdframed Info: You first box width is to small
  mdframed fixed it
-(mdframed)              on input line 838.
+(mdframed)              on input line 863.
 [10 <./2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_23_1.png>]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 840.
+(mdframed)             works with oneside mode on input line 865.
 
-<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_23_3.png, id=180, 286.
+<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_23_3.png, id=190, 286.
 06876pt x 272.01625pt>
 File: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_23_3.png Graphic 
 file (type png)
 
 <use 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_23_3.png>
 Package pdftex.def Info: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysi
-s_23_3.png used on input line 843.
+s_23_3.png used on input line 868.
 (pdftex.def)             Requested size: 286.06805pt x 272.01558pt.
 
 
-Package xcolor Warning: Incompatible color definition on input line 857.
+Package xcolor Warning: Incompatible color definition on input line 882.
 
 
-Package xcolor Warning: Incompatible color definition on input line 857.
+Package xcolor Warning: Incompatible color definition on input line 882.
 
 [11 <./2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_23_2.png> <./201
 4_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_23_3.png>]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 871.
+(mdframed)             works with oneside mode on input line 896.
 
-Overfull \hbox (8.02313pt too wide) in paragraph at lines 876--876
+Overfull \hbox (8.02313pt too wide) in paragraph at lines 901--901
 []                                                   \T1/pcr/m/n/9.5 SI_LowerTh
 ird_mean[[]2[]]))[] 
  []
 
 
-Overfull \hbox (8.02313pt too wide) in paragraph at lines 878--878
+Overfull \hbox (8.02313pt too wide) in paragraph at lines 903--903
 []                                                   \T1/pcr/m/n/9.5 SI_LowerTh
 ird_mean[[]2[]]))[] 
  []
 
 
-Overfull \hbox (8.02313pt too wide) in paragraph at lines 881--881
+Overfull \hbox (8.02313pt too wide) in paragraph at lines 906--906
 []\T1/pcr/m/n/9.5 SI_MiddleThird_plat_max[]=[]numpy[].[]abs(IPmag[].[]lat_from_
 i(SI_MiddleThird_mean[[]1[]][]-[][] 
  []
 
 
-Overfull \hbox (19.42313pt too wide) in paragraph at lines 882--882
+Overfull \hbox (19.42313pt too wide) in paragraph at lines 907--907
 []                                                    \T1/pcr/m/n/9.5 SI_Middle
 Third_mean[[]2[]]))[] 
  []
 
 
-Overfull \hbox (8.02313pt too wide) in paragraph at lines 883--883
+Overfull \hbox (8.02313pt too wide) in paragraph at lines 908--908
 []\T1/pcr/m/n/9.5 SI_MiddleThird_plat_min[]=[]numpy[].[]abs(IPmag[].[]lat_from_
 i(SI_MiddleThird_mean[[]1[]][]+[][] 
  []
 
 
-Overfull \hbox (19.42313pt too wide) in paragraph at lines 884--884
+Overfull \hbox (19.42313pt too wide) in paragraph at lines 909--909
 []                                                    \T1/pcr/m/n/9.5 SI_Middle
 Third_mean[[]2[]]))[] 
  []
 
 
-Overfull \hbox (8.02313pt too wide) in paragraph at lines 888--888
+Overfull \hbox (8.02313pt too wide) in paragraph at lines 913--913
 []                                                   \T1/pcr/m/n/9.5 SI_UpperTh
 ird_mean[[]2[]]))[] 
  []
 
 
-Overfull \hbox (8.02313pt too wide) in paragraph at lines 890--890
+Overfull \hbox (8.02313pt too wide) in paragraph at lines 915--915
 []                                                   \T1/pcr/m/n/9.5 SI_UpperTh
 ird_mean[[]2[]]))[] 
  []
 
 
-Overfull \hbox (2.32314pt too wide) in paragraph at lines 897--897
+Overfull \hbox (2.32314pt too wide) in paragraph at lines 922--922
 []\T1/pcr/m/n/9.5 errorbar(SI_LowerThird_plat, SI_LowerThird_meanstrat, yerr[]=
 [][[[]521[]],[[]521[]]],[] 
  []
 
 
-Overfull \hbox (13.72313pt too wide) in paragraph at lines 901--901
+Overfull \hbox (13.72313pt too wide) in paragraph at lines 926--926
 []\T1/pcr/m/n/9.5 errorbar(SI_MiddleThird_plat, SI_MiddleThird_meanstrat, yerr[
 ]=[][[[]521[]],[[]521[]]],[] 
  []
 
 
-Overfull \hbox (2.32314pt too wide) in paragraph at lines 905--905
+Overfull \hbox (2.32314pt too wide) in paragraph at lines 930--930
 []\T1/pcr/m/n/9.5 errorbar(SI_UpperThird_plat, SI_UpperThird_meanstrat, yerr[]=
 [][[[]521[]],[[]521[]]],[] 
  []
 
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 935.
+(mdframed)             works with oneside mode on input line 960.
 
-<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_27_0.png, id=187, 513.
+<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_27_0.png, id=197, 513.
 92pt x 603.25375pt>
 File: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_27_0.png Graphic 
 file (type png)
 
 <use 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_27_0.png>
 Package pdftex.def Info: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysi
-s_27_0.png used on input line 938.
+s_27_0.png used on input line 963.
 (pdftex.def)             Requested size: 513.91873pt x 603.25227pt.
  [12]
 
-Package xcolor Warning: Incompatible color definition on input line 947.
+Package xcolor Warning: Incompatible color definition on input line 972.
 
 
-Package xcolor Warning: Incompatible color definition on input line 947.
+Package xcolor Warning: Incompatible color definition on input line 972.
 
 
-Package xcolor Warning: Incompatible color definition on input line 948.
+Package xcolor Warning: Incompatible color definition on input line 973.
 
 
-Package xcolor Warning: Incompatible color definition on input line 948.
+Package xcolor Warning: Incompatible color definition on input line 973.
 
 [13 <./2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_27_0.png>]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 965.
+(mdframed)             works with oneside mode on input line 990.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1000.
+(mdframed)             works with oneside mode on input line 1025.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1026.
+(mdframed)             works with oneside mode on input line 1051.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1049.
+(mdframed)             works with oneside mode on input line 1074.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1071.
+(mdframed)             works with oneside mode on input line 1096.
 
-<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_32_1.png, id=198, 282.
+<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_32_1.png, id=209, 282.
 05376pt x 272.01625pt>
 File: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_32_1.png Graphic 
 file (type png)
 
 <use 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_32_1.png>
 Package pdftex.def Info: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysi
-s_32_1.png used on input line 1074.
+s_32_1.png used on input line 1099.
 (pdftex.def)             Requested size: 282.05305pt x 272.01558pt.
 
-Overfull \vbox (176.69142pt too high) detected at line 1078
+Overfull \vbox (176.69142pt too high) detected at line 1103
  []
 
 Package mdframed Info: Box was splittet wrong
  starting loop to iterate the splitting point
-(mdframed)              on input line 1078.
+(mdframed)              on input line 1103.
 
-Overfull \vbox (177.69142pt too high) detected at line 1078
+Overfull \vbox (177.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (178.69142pt too high) detected at line 1078
+Overfull \vbox (178.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (179.69142pt too high) detected at line 1078
+Overfull \vbox (179.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (180.69142pt too high) detected at line 1078
+Overfull \vbox (180.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (181.69142pt too high) detected at line 1078
+Overfull \vbox (181.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (182.69142pt too high) detected at line 1078
+Overfull \vbox (182.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (183.69142pt too high) detected at line 1078
+Overfull \vbox (183.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (184.69142pt too high) detected at line 1078
+Overfull \vbox (184.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (185.69142pt too high) detected at line 1078
+Overfull \vbox (185.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (186.69142pt too high) detected at line 1078
+Overfull \vbox (186.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (187.69142pt too high) detected at line 1078
+Overfull \vbox (187.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (188.69142pt too high) detected at line 1078
+Overfull \vbox (188.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (189.69142pt too high) detected at line 1078
+Overfull \vbox (189.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (190.69142pt too high) detected at line 1078
+Overfull \vbox (190.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (191.69142pt too high) detected at line 1078
+Overfull \vbox (191.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (192.69142pt too high) detected at line 1078
+Overfull \vbox (192.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (193.69142pt too high) detected at line 1078
+Overfull \vbox (193.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (194.69142pt too high) detected at line 1078
+Overfull \vbox (194.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (195.69142pt too high) detected at line 1078
+Overfull \vbox (195.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (196.69142pt too high) detected at line 1078
+Overfull \vbox (196.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (197.69142pt too high) detected at line 1078
+Overfull \vbox (197.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (198.69142pt too high) detected at line 1078
+Overfull \vbox (198.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (199.69142pt too high) detected at line 1078
+Overfull \vbox (199.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (200.69142pt too high) detected at line 1078
+Overfull \vbox (200.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (201.69142pt too high) detected at line 1078
+Overfull \vbox (201.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (202.69142pt too high) detected at line 1078
+Overfull \vbox (202.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (203.69142pt too high) detected at line 1078
+Overfull \vbox (203.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (204.69142pt too high) detected at line 1078
+Overfull \vbox (204.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (205.69142pt too high) detected at line 1078
+Overfull \vbox (205.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (206.69142pt too high) detected at line 1078
+Overfull \vbox (206.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (207.69142pt too high) detected at line 1078
+Overfull \vbox (207.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (208.69142pt too high) detected at line 1078
+Overfull \vbox (208.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (209.69142pt too high) detected at line 1078
+Overfull \vbox (209.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (210.69142pt too high) detected at line 1078
+Overfull \vbox (210.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (211.69142pt too high) detected at line 1078
+Overfull \vbox (211.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (212.69142pt too high) detected at line 1078
+Overfull \vbox (212.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (213.69142pt too high) detected at line 1078
+Overfull \vbox (213.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (214.69142pt too high) detected at line 1078
+Overfull \vbox (214.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (215.69142pt too high) detected at line 1078
+Overfull \vbox (215.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (216.69142pt too high) detected at line 1078
+Overfull \vbox (216.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (217.69142pt too high) detected at line 1078
+Overfull \vbox (217.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (218.69142pt too high) detected at line 1078
+Overfull \vbox (218.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (219.69142pt too high) detected at line 1078
+Overfull \vbox (219.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (220.69142pt too high) detected at line 1078
+Overfull \vbox (220.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (221.69142pt too high) detected at line 1078
+Overfull \vbox (221.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (222.69142pt too high) detected at line 1078
+Overfull \vbox (222.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (223.69142pt too high) detected at line 1078
+Overfull \vbox (223.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (224.69142pt too high) detected at line 1078
+Overfull \vbox (224.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (225.69142pt too high) detected at line 1078
+Overfull \vbox (225.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (226.69142pt too high) detected at line 1078
+Overfull \vbox (226.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (227.69142pt too high) detected at line 1078
+Overfull \vbox (227.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (228.69142pt too high) detected at line 1078
+Overfull \vbox (228.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (229.69142pt too high) detected at line 1078
+Overfull \vbox (229.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (230.69142pt too high) detected at line 1078
+Overfull \vbox (230.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (231.69142pt too high) detected at line 1078
+Overfull \vbox (231.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (232.69142pt too high) detected at line 1078
+Overfull \vbox (232.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (233.69142pt too high) detected at line 1078
+Overfull \vbox (233.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (234.69142pt too high) detected at line 1078
+Overfull \vbox (234.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (235.69142pt too high) detected at line 1078
+Overfull \vbox (235.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (236.69142pt too high) detected at line 1078
+Overfull \vbox (236.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (237.69142pt too high) detected at line 1078
+Overfull \vbox (237.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (238.69142pt too high) detected at line 1078
+Overfull \vbox (238.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (239.69142pt too high) detected at line 1078
+Overfull \vbox (239.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (240.69142pt too high) detected at line 1078
+Overfull \vbox (240.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (241.69142pt too high) detected at line 1078
+Overfull \vbox (241.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (242.69142pt too high) detected at line 1078
+Overfull \vbox (242.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (243.69142pt too high) detected at line 1078
+Overfull \vbox (243.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (244.69142pt too high) detected at line 1078
+Overfull \vbox (244.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (245.69142pt too high) detected at line 1078
+Overfull \vbox (245.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (246.69142pt too high) detected at line 1078
+Overfull \vbox (246.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (247.69142pt too high) detected at line 1078
+Overfull \vbox (247.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (248.69142pt too high) detected at line 1078
+Overfull \vbox (248.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (249.69142pt too high) detected at line 1078
+Overfull \vbox (249.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (250.69142pt too high) detected at line 1078
+Overfull \vbox (250.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (251.69142pt too high) detected at line 1078
+Overfull \vbox (251.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (252.69142pt too high) detected at line 1078
+Overfull \vbox (252.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (253.69142pt too high) detected at line 1078
+Overfull \vbox (253.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (254.69142pt too high) detected at line 1078
+Overfull \vbox (254.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (255.69142pt too high) detected at line 1078
+Overfull \vbox (255.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (256.69142pt too high) detected at line 1078
+Overfull \vbox (256.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (257.69142pt too high) detected at line 1078
+Overfull \vbox (257.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (258.69142pt too high) detected at line 1078
+Overfull \vbox (258.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (259.69142pt too high) detected at line 1078
+Overfull \vbox (259.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (260.69142pt too high) detected at line 1078
+Overfull \vbox (260.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (261.69142pt too high) detected at line 1078
+Overfull \vbox (261.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (262.69142pt too high) detected at line 1078
+Overfull \vbox (262.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (263.69142pt too high) detected at line 1078
+Overfull \vbox (263.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (264.69142pt too high) detected at line 1078
+Overfull \vbox (264.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (265.69142pt too high) detected at line 1078
+Overfull \vbox (265.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (266.69142pt too high) detected at line 1078
+Overfull \vbox (266.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (267.69142pt too high) detected at line 1078
+Overfull \vbox (267.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (268.69142pt too high) detected at line 1078
+Overfull \vbox (268.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (269.69142pt too high) detected at line 1078
+Overfull \vbox (269.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (270.69142pt too high) detected at line 1078
+Overfull \vbox (270.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (271.69142pt too high) detected at line 1078
+Overfull \vbox (271.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (272.69142pt too high) detected at line 1078
+Overfull \vbox (272.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (273.69142pt too high) detected at line 1078
+Overfull \vbox (273.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (274.69142pt too high) detected at line 1078
+Overfull \vbox (274.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (275.69142pt too high) detected at line 1078
+Overfull \vbox (275.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (276.69142pt too high) detected at line 1078
+Overfull \vbox (276.69142pt too high) detected at line 1103
  []
 
 
-Overfull \vbox (277.69142pt too high) detected at line 1078
+Overfull \vbox (277.69142pt too high) detected at line 1103
  []
 
 
 Package mdframed Warning: correct box splittet fails
  It seems you are using a non splittable contents
-(mdframed)                 on input line 1078.
+(mdframed)                 on input line 1103.
 
 Package mdframed Info: You first box width is to small
  mdframed fixed it
-(mdframed)              on input line 1078.
+(mdframed)              on input line 1103.
 [14]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1080.
+(mdframed)             works with oneside mode on input line 1105.
 
-<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_32_2.png, id=204, 282.
+<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_32_2.png, id=214, 282.
 05376pt x 272.01625pt>
 File: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_32_2.png Graphic 
 file (type png)
 
 <use 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_32_2.png>
 Package pdftex.def Info: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysi
-s_32_2.png used on input line 1083.
+s_32_2.png used on input line 1108.
 (pdftex.def)             Requested size: 282.05305pt x 272.01558pt.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1089.
+(mdframed)             works with oneside mode on input line 1114.
 
-<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_32_3.png, id=205, 286.
+<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_32_3.png, id=215, 286.
 06876pt x 272.01625pt>
 File: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_32_3.png Graphic 
 file (type png)
 
 <use 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_32_3.png>
 Package pdftex.def Info: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysi
-s_32_3.png used on input line 1092.
+s_32_3.png used on input line 1117.
 (pdftex.def)             Requested size: 286.06805pt x 272.01558pt.
 
-Overfull \vbox (199.21648pt too high) detected at line 1096
+Overfull \vbox (199.21648pt too high) detected at line 1121
  []
 
 Package mdframed Info: Box was splittet wrong
  starting loop to iterate the splitting point
-(mdframed)              on input line 1096.
+(mdframed)              on input line 1121.
 
-Overfull \vbox (200.21648pt too high) detected at line 1096
+Overfull \vbox (200.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (201.21648pt too high) detected at line 1096
+Overfull \vbox (201.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (202.21648pt too high) detected at line 1096
+Overfull \vbox (202.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (203.21648pt too high) detected at line 1096
+Overfull \vbox (203.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (204.21648pt too high) detected at line 1096
+Overfull \vbox (204.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (205.21648pt too high) detected at line 1096
+Overfull \vbox (205.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (206.21648pt too high) detected at line 1096
+Overfull \vbox (206.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (207.21648pt too high) detected at line 1096
+Overfull \vbox (207.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (208.21648pt too high) detected at line 1096
+Overfull \vbox (208.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (209.21648pt too high) detected at line 1096
+Overfull \vbox (209.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (210.21648pt too high) detected at line 1096
+Overfull \vbox (210.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (211.21648pt too high) detected at line 1096
+Overfull \vbox (211.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (212.21648pt too high) detected at line 1096
+Overfull \vbox (212.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (213.21648pt too high) detected at line 1096
+Overfull \vbox (213.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (214.21648pt too high) detected at line 1096
+Overfull \vbox (214.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (215.21648pt too high) detected at line 1096
+Overfull \vbox (215.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (216.21648pt too high) detected at line 1096
+Overfull \vbox (216.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (217.21648pt too high) detected at line 1096
+Overfull \vbox (217.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (218.21648pt too high) detected at line 1096
+Overfull \vbox (218.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (219.21648pt too high) detected at line 1096
+Overfull \vbox (219.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (220.21648pt too high) detected at line 1096
+Overfull \vbox (220.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (221.21648pt too high) detected at line 1096
+Overfull \vbox (221.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (222.21648pt too high) detected at line 1096
+Overfull \vbox (222.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (223.21648pt too high) detected at line 1096
+Overfull \vbox (223.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (224.21648pt too high) detected at line 1096
+Overfull \vbox (224.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (225.21648pt too high) detected at line 1096
+Overfull \vbox (225.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (226.21648pt too high) detected at line 1096
+Overfull \vbox (226.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (227.21648pt too high) detected at line 1096
+Overfull \vbox (227.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (228.21648pt too high) detected at line 1096
+Overfull \vbox (228.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (229.21648pt too high) detected at line 1096
+Overfull \vbox (229.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (230.21648pt too high) detected at line 1096
+Overfull \vbox (230.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (231.21648pt too high) detected at line 1096
+Overfull \vbox (231.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (232.21648pt too high) detected at line 1096
+Overfull \vbox (232.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (233.21648pt too high) detected at line 1096
+Overfull \vbox (233.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (234.21648pt too high) detected at line 1096
+Overfull \vbox (234.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (235.21648pt too high) detected at line 1096
+Overfull \vbox (235.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (236.21648pt too high) detected at line 1096
+Overfull \vbox (236.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (237.21648pt too high) detected at line 1096
+Overfull \vbox (237.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (238.21648pt too high) detected at line 1096
+Overfull \vbox (238.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (239.21648pt too high) detected at line 1096
+Overfull \vbox (239.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (240.21648pt too high) detected at line 1096
+Overfull \vbox (240.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (241.21648pt too high) detected at line 1096
+Overfull \vbox (241.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (242.21648pt too high) detected at line 1096
+Overfull \vbox (242.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (243.21648pt too high) detected at line 1096
+Overfull \vbox (243.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (244.21648pt too high) detected at line 1096
+Overfull \vbox (244.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (245.21648pt too high) detected at line 1096
+Overfull \vbox (245.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (246.21648pt too high) detected at line 1096
+Overfull \vbox (246.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (247.21648pt too high) detected at line 1096
+Overfull \vbox (247.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (248.21648pt too high) detected at line 1096
+Overfull \vbox (248.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (249.21648pt too high) detected at line 1096
+Overfull \vbox (249.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (250.21648pt too high) detected at line 1096
+Overfull \vbox (250.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (251.21648pt too high) detected at line 1096
+Overfull \vbox (251.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (252.21648pt too high) detected at line 1096
+Overfull \vbox (252.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (253.21648pt too high) detected at line 1096
+Overfull \vbox (253.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (254.21648pt too high) detected at line 1096
+Overfull \vbox (254.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (255.21648pt too high) detected at line 1096
+Overfull \vbox (255.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (256.21648pt too high) detected at line 1096
+Overfull \vbox (256.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (257.21648pt too high) detected at line 1096
+Overfull \vbox (257.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (258.21648pt too high) detected at line 1096
+Overfull \vbox (258.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (259.21648pt too high) detected at line 1096
+Overfull \vbox (259.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (260.21648pt too high) detected at line 1096
+Overfull \vbox (260.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (261.21648pt too high) detected at line 1096
+Overfull \vbox (261.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (262.21648pt too high) detected at line 1096
+Overfull \vbox (262.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (263.21648pt too high) detected at line 1096
+Overfull \vbox (263.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (264.21648pt too high) detected at line 1096
+Overfull \vbox (264.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (265.21648pt too high) detected at line 1096
+Overfull \vbox (265.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (266.21648pt too high) detected at line 1096
+Overfull \vbox (266.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (267.21648pt too high) detected at line 1096
+Overfull \vbox (267.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (268.21648pt too high) detected at line 1096
+Overfull \vbox (268.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (269.21648pt too high) detected at line 1096
+Overfull \vbox (269.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (270.21648pt too high) detected at line 1096
+Overfull \vbox (270.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (271.21648pt too high) detected at line 1096
+Overfull \vbox (271.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (272.21648pt too high) detected at line 1096
+Overfull \vbox (272.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (273.21648pt too high) detected at line 1096
+Overfull \vbox (273.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (274.21648pt too high) detected at line 1096
+Overfull \vbox (274.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (275.21648pt too high) detected at line 1096
+Overfull \vbox (275.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (276.21648pt too high) detected at line 1096
+Overfull \vbox (276.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (277.21648pt too high) detected at line 1096
+Overfull \vbox (277.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (278.21648pt too high) detected at line 1096
+Overfull \vbox (278.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (279.21648pt too high) detected at line 1096
+Overfull \vbox (279.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (280.21648pt too high) detected at line 1096
+Overfull \vbox (280.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (281.21648pt too high) detected at line 1096
+Overfull \vbox (281.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (282.21648pt too high) detected at line 1096
+Overfull \vbox (282.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (283.21648pt too high) detected at line 1096
+Overfull \vbox (283.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (284.21648pt too high) detected at line 1096
+Overfull \vbox (284.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (285.21648pt too high) detected at line 1096
+Overfull \vbox (285.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (286.21648pt too high) detected at line 1096
+Overfull \vbox (286.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (287.21648pt too high) detected at line 1096
+Overfull \vbox (287.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (288.21648pt too high) detected at line 1096
+Overfull \vbox (288.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (289.21648pt too high) detected at line 1096
+Overfull \vbox (289.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (290.21648pt too high) detected at line 1096
+Overfull \vbox (290.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (291.21648pt too high) detected at line 1096
+Overfull \vbox (291.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (292.21648pt too high) detected at line 1096
+Overfull \vbox (292.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (293.21648pt too high) detected at line 1096
+Overfull \vbox (293.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (294.21648pt too high) detected at line 1096
+Overfull \vbox (294.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (295.21648pt too high) detected at line 1096
+Overfull \vbox (295.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (296.21648pt too high) detected at line 1096
+Overfull \vbox (296.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (297.21648pt too high) detected at line 1096
+Overfull \vbox (297.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (298.21648pt too high) detected at line 1096
+Overfull \vbox (298.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (299.21648pt too high) detected at line 1096
+Overfull \vbox (299.21648pt too high) detected at line 1121
  []
 
 
-Overfull \vbox (300.21648pt too high) detected at line 1096
+Overfull \vbox (300.21648pt too high) detected at line 1121
  []
 
 
 Package mdframed Warning: correct box splittet fails
  It seems you are using a non splittable contents
-(mdframed)                 on input line 1096.
+(mdframed)                 on input line 1121.
 
 Package mdframed Info: You first box width is to small
  mdframed fixed it
-(mdframed)              on input line 1096.
+(mdframed)              on input line 1121.
 [15 <./2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_32_1.png> <./201
 4_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_32_2.png>]
 
-Package xcolor Warning: Incompatible color definition on input line 1108.
+Package xcolor Warning: Incompatible color definition on input line 1133.
 
 
-Package xcolor Warning: Incompatible color definition on input line 1108.
+Package xcolor Warning: Incompatible color definition on input line 1133.
 
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1117.
+(mdframed)             works with oneside mode on input line 1142.
 [16 <./2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_32_3.png>]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1163.
+(mdframed)             works with oneside mode on input line 1188.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1194.
+(mdframed)             works with oneside mode on input line 1219.
 
-<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_35_1.png, id=217, 282.
+<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_35_1.png, id=227, 282.
 05376pt x 272.01625pt>
 File: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_35_1.png Graphic 
 file (type png)
 
 <use 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_35_1.png>
 Package pdftex.def Info: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysi
-s_35_1.png used on input line 1197.
+s_35_1.png used on input line 1222.
 (pdftex.def)             Requested size: 282.05305pt x 272.01558pt.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1203.
+(mdframed)             works with oneside mode on input line 1228.
 
-<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_35_2.png, id=218, 282.
+<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_35_2.png, id=228, 282.
 05376pt x 272.01625pt>
 File: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_35_2.png Graphic 
 file (type png)
 
 <use 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_35_2.png>
 Package pdftex.def Info: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysi
-s_35_2.png used on input line 1206.
+s_35_2.png used on input line 1231.
 (pdftex.def)             Requested size: 282.05305pt x 272.01558pt.
  [17 <./2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_35_1.png>]
-Package mdframed Info: Not enough space on this page on input line 1210.
+Package mdframed Info: Not enough space on this page on input line 1235.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1212.
+(mdframed)             works with oneside mode on input line 1237.
 
-<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_35_3.png, id=224, 286.
+<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_35_3.png, id=234, 286.
 06876pt x 272.01625pt>
 File: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_35_3.png Graphic 
 file (type png)
 
 <use 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_35_3.png>
 Package pdftex.def Info: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysi
-s_35_3.png used on input line 1215.
+s_35_3.png used on input line 1240.
 (pdftex.def)             Requested size: 286.06805pt x 272.01558pt.
 
 
-Package xcolor Warning: Incompatible color definition on input line 1223.
+Package xcolor Warning: Incompatible color definition on input line 1248.
 
 
-Package xcolor Warning: Incompatible color definition on input line 1223.
+Package xcolor Warning: Incompatible color definition on input line 1248.
 
 
-Package xcolor Warning: Incompatible color definition on input line 1223.
+Package xcolor Warning: Incompatible color definition on input line 1248.
 
 
-Package xcolor Warning: Incompatible color definition on input line 1223.
+Package xcolor Warning: Incompatible color definition on input line 1248.
 
 [18 <./2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_35_2.png> <./201
 4_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_35_3.png>]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1232.
+(mdframed)             works with oneside mode on input line 1257.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1254.
+(mdframed)             works with oneside mode on input line 1279.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1327.
+(mdframed)             works with oneside mode on input line 1352.
  [19]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1347.
+(mdframed)             works with oneside mode on input line 1372.
 
-<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_40_1.png, id=236, 731.
+<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_40_1.png, id=246, 731.
 73375pt x 461.725pt>
 File: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_40_1.png Graphic 
 file (type png)
 
 <use 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_40_1.png>
 Package pdftex.def Info: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysi
-s_40_1.png used on input line 1350.
+s_40_1.png used on input line 1375.
 (pdftex.def)             Requested size: 731.73196pt x 461.72388pt.
  [20 <./2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_40_1.png>]
 
-Package xcolor Warning: Incompatible color definition on input line 1400.
+Package xcolor Warning: Incompatible color definition on input line 1425.
 
 
-Package xcolor Warning: Incompatible color definition on input line 1400.
+Package xcolor Warning: Incompatible color definition on input line 1425.
+
+
+Package xcolor Warning: Incompatible color definition on input line 1427.
 
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1433.
+(mdframed)             works with oneside mode on input line 1459.
 
-Overfull \hbox (42.22311pt too wide) in paragraph at lines 1439--1439
+Overfull \hbox (42.22311pt too wide) in paragraph at lines 1465--1465
 []\T1/pcr/m/n/9.5 Halls1974_Osler_reversed []=[] np[].[]genfromtxt(data_file,de
 limiter[]=[][]"[][],[][]"[], skip_header[]=[][]1[])[] 
  []
 
 
-Package xcolor Warning: Incompatible color definition on input line 1455.
+Package xcolor Warning: Incompatible color definition on input line 1481.
 
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1464.
+(mdframed)             works with oneside mode on input line 1490.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1487.
+(mdframed)             works with oneside mode on input line 1513.
 [21]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1509.
+(mdframed)             works with oneside mode on input line 1535.
 
-<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_48_1.png, id=246, 286.
+<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_48_1.png, id=257, 286.
 06876pt x 272.01625pt>
 File: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_48_1.png Graphic 
 file (type png)
 
 <use 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_48_1.png>
 Package pdftex.def Info: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysi
-s_48_1.png used on input line 1512.
+s_48_1.png used on input line 1538.
 (pdftex.def)             Requested size: 286.06805pt x 272.01558pt.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1518.
+(mdframed)             works with oneside mode on input line 1544.
 
-<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_48_2.png, id=247, 279.
+<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_48_2.png, id=258, 279.
 0425pt x 272.01625pt>
 File: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_48_2.png Graphic 
 file (type png)
 
 <use 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_48_2.png>
 Package pdftex.def Info: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysi
-s_48_2.png used on input line 1521.
+s_48_2.png used on input line 1547.
 (pdftex.def)             Requested size: 279.04181pt x 272.01558pt.
 
-Overfull \vbox (7.13579pt too high) detected at line 1525
+Overfull \vbox (7.13579pt too high) detected at line 1551
  []
 
 Package mdframed Info: Box was splittet wrong
  starting loop to iterate the splitting point
-(mdframed)              on input line 1525.
+(mdframed)              on input line 1551.
 
-Overfull \vbox (8.13579pt too high) detected at line 1525
+Overfull \vbox (8.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (9.13579pt too high) detected at line 1525
+Overfull \vbox (9.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (10.13579pt too high) detected at line 1525
+Overfull \vbox (10.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (11.13579pt too high) detected at line 1525
+Overfull \vbox (11.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (12.13579pt too high) detected at line 1525
+Overfull \vbox (12.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (13.13579pt too high) detected at line 1525
+Overfull \vbox (13.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (14.13579pt too high) detected at line 1525
+Overfull \vbox (14.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (15.13579pt too high) detected at line 1525
+Overfull \vbox (15.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (16.13579pt too high) detected at line 1525
+Overfull \vbox (16.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (17.13579pt too high) detected at line 1525
+Overfull \vbox (17.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (18.13579pt too high) detected at line 1525
+Overfull \vbox (18.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (19.13579pt too high) detected at line 1525
+Overfull \vbox (19.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (20.13579pt too high) detected at line 1525
+Overfull \vbox (20.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (21.13579pt too high) detected at line 1525
+Overfull \vbox (21.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (22.13579pt too high) detected at line 1525
+Overfull \vbox (22.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (23.13579pt too high) detected at line 1525
+Overfull \vbox (23.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (24.13579pt too high) detected at line 1525
+Overfull \vbox (24.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (25.13579pt too high) detected at line 1525
+Overfull \vbox (25.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (26.13579pt too high) detected at line 1525
+Overfull \vbox (26.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (27.13579pt too high) detected at line 1525
+Overfull \vbox (27.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (28.13579pt too high) detected at line 1525
+Overfull \vbox (28.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (29.13579pt too high) detected at line 1525
+Overfull \vbox (29.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (30.13579pt too high) detected at line 1525
+Overfull \vbox (30.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (31.13579pt too high) detected at line 1525
+Overfull \vbox (31.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (32.13579pt too high) detected at line 1525
+Overfull \vbox (32.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (33.13579pt too high) detected at line 1525
+Overfull \vbox (33.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (34.13579pt too high) detected at line 1525
+Overfull \vbox (34.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (35.13579pt too high) detected at line 1525
+Overfull \vbox (35.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (36.13579pt too high) detected at line 1525
+Overfull \vbox (36.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (37.13579pt too high) detected at line 1525
+Overfull \vbox (37.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (38.13579pt too high) detected at line 1525
+Overfull \vbox (38.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (39.13579pt too high) detected at line 1525
+Overfull \vbox (39.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (40.13579pt too high) detected at line 1525
+Overfull \vbox (40.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (41.13579pt too high) detected at line 1525
+Overfull \vbox (41.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (42.13579pt too high) detected at line 1525
+Overfull \vbox (42.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (43.13579pt too high) detected at line 1525
+Overfull \vbox (43.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (44.13579pt too high) detected at line 1525
+Overfull \vbox (44.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (45.13579pt too high) detected at line 1525
+Overfull \vbox (45.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (46.13579pt too high) detected at line 1525
+Overfull \vbox (46.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (47.13579pt too high) detected at line 1525
+Overfull \vbox (47.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (48.13579pt too high) detected at line 1525
+Overfull \vbox (48.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (49.13579pt too high) detected at line 1525
+Overfull \vbox (49.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (50.13579pt too high) detected at line 1525
+Overfull \vbox (50.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (51.13579pt too high) detected at line 1525
+Overfull \vbox (51.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (52.13579pt too high) detected at line 1525
+Overfull \vbox (52.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (53.13579pt too high) detected at line 1525
+Overfull \vbox (53.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (54.13579pt too high) detected at line 1525
+Overfull \vbox (54.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (55.13579pt too high) detected at line 1525
+Overfull \vbox (55.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (56.13579pt too high) detected at line 1525
+Overfull \vbox (56.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (57.13579pt too high) detected at line 1525
+Overfull \vbox (57.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (58.13579pt too high) detected at line 1525
+Overfull \vbox (58.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (59.13579pt too high) detected at line 1525
+Overfull \vbox (59.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (60.13579pt too high) detected at line 1525
+Overfull \vbox (60.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (61.13579pt too high) detected at line 1525
+Overfull \vbox (61.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (62.13579pt too high) detected at line 1525
+Overfull \vbox (62.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (63.13579pt too high) detected at line 1525
+Overfull \vbox (63.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (64.13579pt too high) detected at line 1525
+Overfull \vbox (64.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (65.13579pt too high) detected at line 1525
+Overfull \vbox (65.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (66.13579pt too high) detected at line 1525
+Overfull \vbox (66.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (67.13579pt too high) detected at line 1525
+Overfull \vbox (67.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (68.13579pt too high) detected at line 1525
+Overfull \vbox (68.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (69.13579pt too high) detected at line 1525
+Overfull \vbox (69.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (70.13579pt too high) detected at line 1525
+Overfull \vbox (70.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (71.13579pt too high) detected at line 1525
+Overfull \vbox (71.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (72.13579pt too high) detected at line 1525
+Overfull \vbox (72.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (73.13579pt too high) detected at line 1525
+Overfull \vbox (73.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (74.13579pt too high) detected at line 1525
+Overfull \vbox (74.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (75.13579pt too high) detected at line 1525
+Overfull \vbox (75.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (76.13579pt too high) detected at line 1525
+Overfull \vbox (76.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (77.13579pt too high) detected at line 1525
+Overfull \vbox (77.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (78.13579pt too high) detected at line 1525
+Overfull \vbox (78.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (79.13579pt too high) detected at line 1525
+Overfull \vbox (79.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (80.13579pt too high) detected at line 1525
+Overfull \vbox (80.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (81.13579pt too high) detected at line 1525
+Overfull \vbox (81.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (82.13579pt too high) detected at line 1525
+Overfull \vbox (82.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (83.13579pt too high) detected at line 1525
+Overfull \vbox (83.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (84.13579pt too high) detected at line 1525
+Overfull \vbox (84.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (85.13579pt too high) detected at line 1525
+Overfull \vbox (85.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (86.13579pt too high) detected at line 1525
+Overfull \vbox (86.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (87.13579pt too high) detected at line 1525
+Overfull \vbox (87.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (88.13579pt too high) detected at line 1525
+Overfull \vbox (88.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (89.13579pt too high) detected at line 1525
+Overfull \vbox (89.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (90.13579pt too high) detected at line 1525
+Overfull \vbox (90.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (91.13579pt too high) detected at line 1525
+Overfull \vbox (91.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (92.13579pt too high) detected at line 1525
+Overfull \vbox (92.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (93.13579pt too high) detected at line 1525
+Overfull \vbox (93.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (94.13579pt too high) detected at line 1525
+Overfull \vbox (94.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (95.13579pt too high) detected at line 1525
+Overfull \vbox (95.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (96.13579pt too high) detected at line 1525
+Overfull \vbox (96.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (97.13579pt too high) detected at line 1525
+Overfull \vbox (97.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (98.13579pt too high) detected at line 1525
+Overfull \vbox (98.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (99.13579pt too high) detected at line 1525
+Overfull \vbox (99.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (100.13579pt too high) detected at line 1525
+Overfull \vbox (100.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (101.13579pt too high) detected at line 1525
+Overfull \vbox (101.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (102.13579pt too high) detected at line 1525
+Overfull \vbox (102.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (103.13579pt too high) detected at line 1525
+Overfull \vbox (103.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (104.13579pt too high) detected at line 1525
+Overfull \vbox (104.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (105.13579pt too high) detected at line 1525
+Overfull \vbox (105.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (106.13579pt too high) detected at line 1525
+Overfull \vbox (106.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (107.13579pt too high) detected at line 1525
+Overfull \vbox (107.13579pt too high) detected at line 1551
  []
 
 
-Overfull \vbox (108.13579pt too high) detected at line 1525
+Overfull \vbox (108.13579pt too high) detected at line 1551
  []
 
 
 Package mdframed Warning: correct box splittet fails
  It seems you are using a non splittable contents
-(mdframed)                 on input line 1525.
+(mdframed)                 on input line 1551.
 
 Package mdframed Info: You first box width is to small
  mdframed fixed it
-(mdframed)              on input line 1525.
+(mdframed)              on input line 1551.
 [22 <./2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_48_1.png>]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1527.
+(mdframed)             works with oneside mode on input line 1553.
 
-<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_48_3.png, id=253, 282.
+<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_48_3.png, id=264, 282.
 05376pt x 272.01625pt>
 File: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_48_3.png Graphic 
 file (type png)
 
 <use 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_48_3.png>
 Package pdftex.def Info: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysi
-s_48_3.png used on input line 1530.
+s_48_3.png used on input line 1556.
 (pdftex.def)             Requested size: 282.05305pt x 272.01558pt.
 
 
-Package xcolor Warning: Incompatible color definition on input line 1543.
+Package xcolor Warning: Incompatible color definition on input line 1568.
 
 [23 <./2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_48_2.png> <./201
 4_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_48_3.png>]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1552.
+(mdframed)             works with oneside mode on input line 1577.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1575.
+(mdframed)             works with oneside mode on input line 1600.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1599.
+(mdframed)             works with oneside mode on input line 1624.
 
-<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_51_1.png, id=260, 286.
+<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_51_1.png, id=271, 286.
 06876pt x 272.01625pt>
 File: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_51_1.png Graphic 
 file (type png)
 
 <use 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_51_1.png>
 Package pdftex.def Info: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysi
-s_51_1.png used on input line 1602.
+s_51_1.png used on input line 1627.
 (pdftex.def)             Requested size: 286.06805pt x 272.01558pt.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1608.
+(mdframed)             works with oneside mode on input line 1633.
 
-<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_51_2.png, id=261, 282.
+<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_51_2.png, id=272, 282.
 05376pt x 272.01625pt>
 File: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_51_2.png Graphic 
 file (type png)
 
 <use 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_51_2.png>
 Package pdftex.def Info: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysi
-s_51_2.png used on input line 1611.
+s_51_2.png used on input line 1636.
 (pdftex.def)             Requested size: 282.05305pt x 272.01558pt.
 
-Overfull \vbox (220.63068pt too high) detected at line 1615
+Overfull \vbox (220.63068pt too high) detected at line 1640
  []
 
 Package mdframed Info: Box was splittet wrong
  starting loop to iterate the splitting point
-(mdframed)              on input line 1615.
+(mdframed)              on input line 1640.
 
-Overfull \vbox (221.63068pt too high) detected at line 1615
+Overfull \vbox (221.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (222.63068pt too high) detected at line 1615
+Overfull \vbox (222.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (223.63068pt too high) detected at line 1615
+Overfull \vbox (223.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (224.63068pt too high) detected at line 1615
+Overfull \vbox (224.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (225.63068pt too high) detected at line 1615
+Overfull \vbox (225.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (226.63068pt too high) detected at line 1615
+Overfull \vbox (226.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (227.63068pt too high) detected at line 1615
+Overfull \vbox (227.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (228.63068pt too high) detected at line 1615
+Overfull \vbox (228.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (229.63068pt too high) detected at line 1615
+Overfull \vbox (229.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (230.63068pt too high) detected at line 1615
+Overfull \vbox (230.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (231.63068pt too high) detected at line 1615
+Overfull \vbox (231.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (232.63068pt too high) detected at line 1615
+Overfull \vbox (232.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (233.63068pt too high) detected at line 1615
+Overfull \vbox (233.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (234.63068pt too high) detected at line 1615
+Overfull \vbox (234.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (235.63068pt too high) detected at line 1615
+Overfull \vbox (235.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (236.63068pt too high) detected at line 1615
+Overfull \vbox (236.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (237.63068pt too high) detected at line 1615
+Overfull \vbox (237.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (238.63068pt too high) detected at line 1615
+Overfull \vbox (238.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (239.63068pt too high) detected at line 1615
+Overfull \vbox (239.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (240.63068pt too high) detected at line 1615
+Overfull \vbox (240.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (241.63068pt too high) detected at line 1615
+Overfull \vbox (241.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (242.63068pt too high) detected at line 1615
+Overfull \vbox (242.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (243.63068pt too high) detected at line 1615
+Overfull \vbox (243.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (244.63068pt too high) detected at line 1615
+Overfull \vbox (244.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (245.63068pt too high) detected at line 1615
+Overfull \vbox (245.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (246.63068pt too high) detected at line 1615
+Overfull \vbox (246.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (247.63068pt too high) detected at line 1615
+Overfull \vbox (247.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (248.63068pt too high) detected at line 1615
+Overfull \vbox (248.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (249.63068pt too high) detected at line 1615
+Overfull \vbox (249.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (250.63068pt too high) detected at line 1615
+Overfull \vbox (250.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (251.63068pt too high) detected at line 1615
+Overfull \vbox (251.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (252.63068pt too high) detected at line 1615
+Overfull \vbox (252.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (253.63068pt too high) detected at line 1615
+Overfull \vbox (253.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (254.63068pt too high) detected at line 1615
+Overfull \vbox (254.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (255.63068pt too high) detected at line 1615
+Overfull \vbox (255.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (256.63068pt too high) detected at line 1615
+Overfull \vbox (256.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (257.63068pt too high) detected at line 1615
+Overfull \vbox (257.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (258.63068pt too high) detected at line 1615
+Overfull \vbox (258.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (259.63068pt too high) detected at line 1615
+Overfull \vbox (259.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (260.63068pt too high) detected at line 1615
+Overfull \vbox (260.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (261.63068pt too high) detected at line 1615
+Overfull \vbox (261.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (262.63068pt too high) detected at line 1615
+Overfull \vbox (262.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (263.63068pt too high) detected at line 1615
+Overfull \vbox (263.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (264.63068pt too high) detected at line 1615
+Overfull \vbox (264.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (265.63068pt too high) detected at line 1615
+Overfull \vbox (265.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (266.63068pt too high) detected at line 1615
+Overfull \vbox (266.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (267.63068pt too high) detected at line 1615
+Overfull \vbox (267.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (268.63068pt too high) detected at line 1615
+Overfull \vbox (268.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (269.63068pt too high) detected at line 1615
+Overfull \vbox (269.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (270.63068pt too high) detected at line 1615
+Overfull \vbox (270.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (271.63068pt too high) detected at line 1615
+Overfull \vbox (271.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (272.63068pt too high) detected at line 1615
+Overfull \vbox (272.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (273.63068pt too high) detected at line 1615
+Overfull \vbox (273.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (274.63068pt too high) detected at line 1615
+Overfull \vbox (274.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (275.63068pt too high) detected at line 1615
+Overfull \vbox (275.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (276.63068pt too high) detected at line 1615
+Overfull \vbox (276.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (277.63068pt too high) detected at line 1615
+Overfull \vbox (277.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (278.63068pt too high) detected at line 1615
+Overfull \vbox (278.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (279.63068pt too high) detected at line 1615
+Overfull \vbox (279.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (280.63068pt too high) detected at line 1615
+Overfull \vbox (280.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (281.63068pt too high) detected at line 1615
+Overfull \vbox (281.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (282.63068pt too high) detected at line 1615
+Overfull \vbox (282.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (283.63068pt too high) detected at line 1615
+Overfull \vbox (283.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (284.63068pt too high) detected at line 1615
+Overfull \vbox (284.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (285.63068pt too high) detected at line 1615
+Overfull \vbox (285.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (286.63068pt too high) detected at line 1615
+Overfull \vbox (286.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (287.63068pt too high) detected at line 1615
+Overfull \vbox (287.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (288.63068pt too high) detected at line 1615
+Overfull \vbox (288.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (289.63068pt too high) detected at line 1615
+Overfull \vbox (289.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (290.63068pt too high) detected at line 1615
+Overfull \vbox (290.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (291.63068pt too high) detected at line 1615
+Overfull \vbox (291.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (292.63068pt too high) detected at line 1615
+Overfull \vbox (292.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (293.63068pt too high) detected at line 1615
+Overfull \vbox (293.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (294.63068pt too high) detected at line 1615
+Overfull \vbox (294.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (295.63068pt too high) detected at line 1615
+Overfull \vbox (295.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (296.63068pt too high) detected at line 1615
+Overfull \vbox (296.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (297.63068pt too high) detected at line 1615
+Overfull \vbox (297.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (298.63068pt too high) detected at line 1615
+Overfull \vbox (298.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (299.63068pt too high) detected at line 1615
+Overfull \vbox (299.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (300.63068pt too high) detected at line 1615
+Overfull \vbox (300.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (301.63068pt too high) detected at line 1615
+Overfull \vbox (301.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (302.63068pt too high) detected at line 1615
+Overfull \vbox (302.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (303.63068pt too high) detected at line 1615
+Overfull \vbox (303.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (304.63068pt too high) detected at line 1615
+Overfull \vbox (304.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (305.63068pt too high) detected at line 1615
+Overfull \vbox (305.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (306.63068pt too high) detected at line 1615
+Overfull \vbox (306.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (307.63068pt too high) detected at line 1615
+Overfull \vbox (307.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (308.63068pt too high) detected at line 1615
+Overfull \vbox (308.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (309.63068pt too high) detected at line 1615
+Overfull \vbox (309.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (310.63068pt too high) detected at line 1615
+Overfull \vbox (310.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (311.63068pt too high) detected at line 1615
+Overfull \vbox (311.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (312.63068pt too high) detected at line 1615
+Overfull \vbox (312.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (313.63068pt too high) detected at line 1615
+Overfull \vbox (313.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (314.63068pt too high) detected at line 1615
+Overfull \vbox (314.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (315.63068pt too high) detected at line 1615
+Overfull \vbox (315.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (316.63068pt too high) detected at line 1615
+Overfull \vbox (316.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (317.63068pt too high) detected at line 1615
+Overfull \vbox (317.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (318.63068pt too high) detected at line 1615
+Overfull \vbox (318.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (319.63068pt too high) detected at line 1615
+Overfull \vbox (319.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (320.63068pt too high) detected at line 1615
+Overfull \vbox (320.63068pt too high) detected at line 1640
  []
 
 
-Overfull \vbox (321.63068pt too high) detected at line 1615
+Overfull \vbox (321.63068pt too high) detected at line 1640
  []
 
 
 Package mdframed Warning: correct box splittet fails
  It seems you are using a non splittable contents
-(mdframed)                 on input line 1615.
+(mdframed)                 on input line 1640.
 
 Package mdframed Info: You first box width is to small
  mdframed fixed it
-(mdframed)              on input line 1615.
+(mdframed)              on input line 1640.
 [24 <./2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_51_1.png>]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1617.
+(mdframed)             works with oneside mode on input line 1642.
 
-<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_51_3.png, id=267, 282.
+<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_51_3.png, id=278, 282.
 05376pt x 272.01625pt>
 File: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_51_3.png Graphic 
 file (type png)
 
 <use 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_51_3.png>
 Package pdftex.def Info: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysi
-s_51_3.png used on input line 1620.
+s_51_3.png used on input line 1645.
 (pdftex.def)             Requested size: 282.05305pt x 272.01558pt.
 
 
-Package xcolor Warning: Incompatible color definition on input line 1633.
+Package xcolor Warning: Incompatible color definition on input line 1654.
+
+
+Package xcolor Warning: Incompatible color definition on input line 1658.
 
 [25 <./2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_51_2.png> <./201
 4_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_51_3.png>]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1642.
+(mdframed)             works with oneside mode on input line 1667.
 
-Overfull \hbox (30.82312pt too wide) in paragraph at lines 1649--1649
+Overfull \hbox (30.82312pt too wide) in paragraph at lines 1674--1674
 [][]\T1/pcr/b/n/9.5 print[] []\T1/pcr/m/n/9.5 '[][]The fisher mean parameters f
 or the pole calculated from upper reversed[][]'[][] 
  []
 
 
-Overfull \hbox (30.82312pt too wide) in paragraph at lines 1650--1650
+Overfull \hbox (30.82312pt too wide) in paragraph at lines 1675--1675
 [][]\T1/pcr/b/n/9.5 print[] []\T1/pcr/m/n/9.5 '[][]Osler Group VGPs (SI_UpperTh
 ird_Poles+Halls, 1974 reversed data) are: [][]'[][] 
  []
 
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1670.
+(mdframed)             works with oneside mode on input line 1695.
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 1672--1672
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 1697--1697
 []\T1/pcr/m/n/10 The fisher mean parameters for the pole calculated from upper 
 reversed 
  []
@@ -4762,53 +4773,51 @@ reversed
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )
 
-Package xcolor Warning: Incompatible color definition on input line 1706.
+Package xcolor Warning: Incompatible color definition on input line 1731.
 
 
-Package xcolor Warning: Incompatible color definition on input line 1706.
+Package xcolor Warning: Incompatible color definition on input line 1731.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1706--1709
-\T1/ptm/m/n/10 For de-tails on work-ing with pa-le-o-mag-netic data in GPlates 
-check out this tu-to-rial:
- []
+Package xcolor Warning: Incompatible color definition on input line 1733.
 
 [26]
-Underfull \hbox (badness 10000) in paragraph at lines 1738--1751
+Underfull \hbox (badness 10000) in paragraph at lines 1763--1776
 
  []
 
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1771.
+(mdframed)             works with oneside mode on input line 1796.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1795.
+(mdframed)             works with oneside mode on input line 1820.
 
-<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_61_0.pdf, id=281, 236.
+<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_61_0.pdf, id=294, 236.
 49475pt x 235.02524pt>
 File: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_61_0.pdf Graphic 
 file (type pdf)
 
 <use 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_61_0.pdf>
 Package pdftex.def Info: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysi
-s_61_0.pdf used on input line 1798.
+s_61_0.pdf used on input line 1823.
 (pdftex.def)             Requested size: 236.49416pt x 235.02464pt.
 
 
-Package xcolor Warning: Incompatible color definition on input line 1806.
+Package xcolor Warning: Incompatible color definition on input line 1831.
 
 
-Package xcolor Warning: Incompatible color definition on input line 1806.
+Package xcolor Warning: Incompatible color definition on input line 1831.
 
+[27 <./2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_61_0.pdf>]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1822.
+(mdframed)             works with oneside mode on input line 1846.
 
-Overfull \hbox (305.21143pt too wide) in paragraph at lines 1825--1825
+Overfull \hbox (305.21143pt too wide) in paragraph at lines 1849--1849
 [][]\T1/pcr/m/sl/9.5 #flow thicknesses where bottom and top are exposed without
  cover in between or with minimal cover and assumption of continuity[][] 
  []
 
 
-Overfull \hbox (1564.1223pt too wide) in paragraph at lines 1826--1826
+Overfull \hbox (1564.1223pt too wide) in paragraph at lines 1850--1850
 []\T1/pcr/m/n/9.5 SI1_flowthickness []=[] array([[]1.2[], []1.1[][]+[][]0.7[],[
 ]0.2[][]+[][]2.9[][]+[][]0.3[],[]5.1[][]+[][]5.4[][]+[][]0.6[][]+[][]3.4[],[]0.
 6[][]+[][]1[][]+[][].[][]3[],[]0.9[],[]0.5[],[]2.2[],[]0.8[],[]0.5[],[]0.3[][]+
@@ -4824,14 +4833,14 @@ Overfull \hbox (1564.1223pt too wide) in paragraph at lines 1826--1826
  []
 
 
-Overfull \hbox (47.92311pt too wide) in paragraph at lines 1827--1827
+Overfull \hbox (47.92311pt too wide) in paragraph at lines 1851--1851
 []\T1/pcr/m/n/9.5 SI2_flowthickness []=[] array([[]0.6[][]+[][]2.8[],[]5.7[][]+
 [][]2[][]+[][]3.6[],[]1.3[][]+[][]0.7[][]+[][]1.1[][]+[][]1.1[],[]6.2[][]+[][]1
 [],[]1.8[][]+[][]3.3[][]+[][]11.4[]])[] 
  []
 
 
-Overfull \hbox (315.82297pt too wide) in paragraph at lines 1828--1828
+Overfull \hbox (315.82297pt too wide) in paragraph at lines 1852--1852
 []\T1/pcr/m/n/9.5 SI3_flowthickness []=[] array([[]0.6[][]+[][]0.8[][]+[][]1[][
 ]+[][].[][]8[],[]1[][]+[][]4.9[][]+[][]1.1[],[]0.3[][]+[][]1.6[][]+[][]4.5[][]+
 [][]1.2[],[]0.2[][]+[][]1.5[][]+[][]7.2[][]+[][]0.9[],[]0.5[][]+[][]1.7[][]+[][
@@ -4840,7 +4849,7 @@ Overfull \hbox (315.82297pt too wide) in paragraph at lines 1828--1828
  []
 
 
-Overfull \hbox (538.12285pt too wide) in paragraph at lines 1829--1829
+Overfull \hbox (538.12285pt too wide) in paragraph at lines 1853--1853
 []\T1/pcr/m/n/9.5 SI4_flowthickness []=[] array([[]0.2[][]+[][]1.2[][]+[][]0.9[
 ],[]0.3[][]+[][]1.5[][]+[][]0.4[][]+[][]3.2[],[]14[][]+[][]6.5[],[]0.7[][]+[][]
 1[][]+[][]3.6[],[]8.2[][]+[][]2.4[][]+[][]4.6[],[]3.1[][]+[][]1.4[][]+[][]1.4[]
@@ -4850,7 +4859,7 @@ Overfull \hbox (538.12285pt too wide) in paragraph at lines 1829--1829
  []
 
 
-Overfull \hbox (595.12282pt too wide) in paragraph at lines 1830--1830
+Overfull \hbox (595.12282pt too wide) in paragraph at lines 1854--1854
 []\T1/pcr/m/n/9.5 SI5_flowthickness []=[] array([[]6.6[][]+[][]9.8[][]+[][]7.4[
 ][]+[][]1.4[][]+[][]2.3[],[]10.2[][]+[][]0.8[],[]5.6[][]+[][]2.8[][]+[][]1.4[][
 ]+[][]2.2[],[]0.2[][]+[][]2.8[][]+[][]2.4[][]+[][]0.7[],[]0.6[],[]0.2[][]+[][]0
@@ -4860,7 +4869,7 @@ Overfull \hbox (595.12282pt too wide) in paragraph at lines 1830--1830
  []
 
 
-Overfull \hbox (327.22296pt too wide) in paragraph at lines 1831--1831
+Overfull \hbox (327.22296pt too wide) in paragraph at lines 1855--1855
 []\T1/pcr/m/n/9.5 SI6_flowthickness []=[] array([[]13.1[][]+[][]3.3[],[]13.5[][
 ]+[][]3.7[],[]6.5[][]+[][]0.6[],[]6.1[][]+[][]2.1[][]+[][]0.9[],[]0.9[][]+[][]6
 .6[][]+[][]4.0[],[]7.3[][]+[][]5.6[][]+[][]1.3[][]+[][]7.4[],[]0.5[][]+[][]9.6[
@@ -4869,7 +4878,7 @@ Overfull \hbox (327.22296pt too wide) in paragraph at lines 1831--1831
  []
 
 
-Overfull \hbox (190.42303pt too wide) in paragraph at lines 1833--1833
+Overfull \hbox (190.42303pt too wide) in paragraph at lines 1857--1857
 []\T1/pcr/m/n/9.5 SI8_flowthickness []=[] array([[]1.4[][]+[][]1.9[][]+[][]0.6[
 ],[]0.5[][]+[][]1[][]+[][]8.8[][]+[][]4[][]+[][]1.1[],[]5[][]+[][]15.8[][]+[][]
 2.8[][]+[][]2.1[],[]5[][]+[][]4.2[],[]8.4[][]+[][]8.1[][]+[][]5[],[]1.8[][]+[][
@@ -4877,7 +4886,7 @@ Overfull \hbox (190.42303pt too wide) in paragraph at lines 1833--1833
  []
 
 
-Overfull \hbox (407.02292pt too wide) in paragraph at lines 1834--1834
+Overfull \hbox (407.02292pt too wide) in paragraph at lines 1858--1858
 []\T1/pcr/m/n/9.5 SI9_flowthickness []=[] array([[]5.0[][]+[][]4.2[],[]14.0[][]
 +[][]1[][]+[][]2.1[],[]2.8[][]+[][]2.1[],[]3.6[][]+[][]12.3[][]+[][]3.6[][]+[][
 ]0.7[],[]4.2[][]+[][]2.3[],[]1.3[][]+[][]1.4[][]+[][]2.2[],[]0.8[][]+[][]1.8[][
@@ -4886,598 +4895,597 @@ Overfull \hbox (407.02292pt too wide) in paragraph at lines 1834--1834
  []
 
 
-Overfull \hbox (36.52312pt too wide) in paragraph at lines 1841--1841
+Overfull \hbox (36.52312pt too wide) in paragraph at lines 1865--1865
 [][]\T1/pcr/b/n/9.5 print[] []\T1/pcr/m/n/9.5 "[][]The number of flows for whic
 h thickness estimates could be obtained is:[][]"[][] 
  []
 
 
-Overfull \hbox (42.22311pt too wide) in paragraph at lines 1860--1860
+Overfull \hbox (42.22311pt too wide) in paragraph at lines 1884--1884
 []      \T1/pcr/m/n/9.5 SI7_flowthickness,SI8_flowthickness,SI9_flowthickness,S
 Iall_flowthickness)[] 
  []
 
-[27 <./2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_61_0.pdf>]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1889.
+(mdframed)             works with oneside mode on input line 1913.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1906.
+(mdframed)             works with oneside mode on input line 1930.
 
-<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_64_1.png, id=289, 400.
+<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_64_1.png, id=302, 400.
 49625pt x 282.05376pt>
 File: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_64_1.png Graphic 
 file (type png)
 
 <use 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_64_1.png>
 Package pdftex.def Info: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysi
-s_64_1.png used on input line 1909.
+s_64_1.png used on input line 1933.
 (pdftex.def)             Requested size: 400.49527pt x 282.05305pt.
 
-Overfull \vbox (204.51093pt too high) detected at line 1913
+Overfull \vbox (231.61096pt too high) detected at line 1937
  []
 
 Package mdframed Info: Box was splittet wrong
  starting loop to iterate the splitting point
-(mdframed)              on input line 1913.
+(mdframed)              on input line 1937.
 
-Overfull \vbox (205.51093pt too high) detected at line 1913
+Overfull \vbox (232.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (206.51093pt too high) detected at line 1913
+Overfull \vbox (233.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (207.51093pt too high) detected at line 1913
+Overfull \vbox (234.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (208.51093pt too high) detected at line 1913
+Overfull \vbox (235.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (209.51093pt too high) detected at line 1913
+Overfull \vbox (236.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (210.51093pt too high) detected at line 1913
+Overfull \vbox (237.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (211.51093pt too high) detected at line 1913
+Overfull \vbox (238.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (212.51093pt too high) detected at line 1913
+Overfull \vbox (239.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (213.51093pt too high) detected at line 1913
+Overfull \vbox (240.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (214.51093pt too high) detected at line 1913
+Overfull \vbox (241.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (215.51093pt too high) detected at line 1913
+Overfull \vbox (242.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (216.51093pt too high) detected at line 1913
+Overfull \vbox (243.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (217.51093pt too high) detected at line 1913
+Overfull \vbox (244.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (218.51093pt too high) detected at line 1913
+Overfull \vbox (245.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (219.51093pt too high) detected at line 1913
+Overfull \vbox (246.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (220.51093pt too high) detected at line 1913
+Overfull \vbox (247.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (221.51093pt too high) detected at line 1913
+Overfull \vbox (248.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (222.51093pt too high) detected at line 1913
+Overfull \vbox (249.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (223.51093pt too high) detected at line 1913
+Overfull \vbox (250.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (224.51093pt too high) detected at line 1913
+Overfull \vbox (251.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (225.51093pt too high) detected at line 1913
+Overfull \vbox (252.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (226.51093pt too high) detected at line 1913
+Overfull \vbox (253.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (227.51093pt too high) detected at line 1913
+Overfull \vbox (254.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (228.51093pt too high) detected at line 1913
+Overfull \vbox (255.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (229.51093pt too high) detected at line 1913
+Overfull \vbox (256.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (230.51093pt too high) detected at line 1913
+Overfull \vbox (257.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (231.51093pt too high) detected at line 1913
+Overfull \vbox (258.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (232.51093pt too high) detected at line 1913
+Overfull \vbox (259.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (233.51093pt too high) detected at line 1913
+Overfull \vbox (260.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (234.51093pt too high) detected at line 1913
+Overfull \vbox (261.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (235.51093pt too high) detected at line 1913
+Overfull \vbox (262.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (236.51093pt too high) detected at line 1913
+Overfull \vbox (263.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (237.51093pt too high) detected at line 1913
+Overfull \vbox (264.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (238.51093pt too high) detected at line 1913
+Overfull \vbox (265.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (239.51093pt too high) detected at line 1913
+Overfull \vbox (266.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (240.51093pt too high) detected at line 1913
+Overfull \vbox (267.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (241.51093pt too high) detected at line 1913
+Overfull \vbox (268.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (242.51093pt too high) detected at line 1913
+Overfull \vbox (269.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (243.51093pt too high) detected at line 1913
+Overfull \vbox (270.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (244.51093pt too high) detected at line 1913
+Overfull \vbox (271.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (245.51093pt too high) detected at line 1913
+Overfull \vbox (272.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (246.51093pt too high) detected at line 1913
+Overfull \vbox (273.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (247.51093pt too high) detected at line 1913
+Overfull \vbox (274.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (248.51093pt too high) detected at line 1913
+Overfull \vbox (275.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (249.51093pt too high) detected at line 1913
+Overfull \vbox (276.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (250.51093pt too high) detected at line 1913
+Overfull \vbox (277.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (251.51093pt too high) detected at line 1913
+Overfull \vbox (278.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (252.51093pt too high) detected at line 1913
+Overfull \vbox (279.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (253.51093pt too high) detected at line 1913
+Overfull \vbox (280.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (254.51093pt too high) detected at line 1913
+Overfull \vbox (281.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (255.51093pt too high) detected at line 1913
+Overfull \vbox (282.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (256.51093pt too high) detected at line 1913
+Overfull \vbox (283.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (257.51093pt too high) detected at line 1913
+Overfull \vbox (284.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (258.51093pt too high) detected at line 1913
+Overfull \vbox (285.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (259.51093pt too high) detected at line 1913
+Overfull \vbox (286.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (260.51093pt too high) detected at line 1913
+Overfull \vbox (287.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (261.51093pt too high) detected at line 1913
+Overfull \vbox (288.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (262.51093pt too high) detected at line 1913
+Overfull \vbox (289.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (263.51093pt too high) detected at line 1913
+Overfull \vbox (290.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (264.51093pt too high) detected at line 1913
+Overfull \vbox (291.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (265.51093pt too high) detected at line 1913
+Overfull \vbox (292.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (266.51093pt too high) detected at line 1913
+Overfull \vbox (293.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (267.51093pt too high) detected at line 1913
+Overfull \vbox (294.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (268.51093pt too high) detected at line 1913
+Overfull \vbox (295.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (269.51093pt too high) detected at line 1913
+Overfull \vbox (296.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (270.51093pt too high) detected at line 1913
+Overfull \vbox (297.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (271.51093pt too high) detected at line 1913
+Overfull \vbox (298.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (272.51093pt too high) detected at line 1913
+Overfull \vbox (299.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (273.51093pt too high) detected at line 1913
+Overfull \vbox (300.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (274.51093pt too high) detected at line 1913
+Overfull \vbox (301.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (275.51093pt too high) detected at line 1913
+Overfull \vbox (302.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (276.51093pt too high) detected at line 1913
+Overfull \vbox (303.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (277.51093pt too high) detected at line 1913
+Overfull \vbox (304.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (278.51093pt too high) detected at line 1913
+Overfull \vbox (305.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (279.51093pt too high) detected at line 1913
+Overfull \vbox (306.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (280.51093pt too high) detected at line 1913
+Overfull \vbox (307.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (281.51093pt too high) detected at line 1913
+Overfull \vbox (308.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (282.51093pt too high) detected at line 1913
+Overfull \vbox (309.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (283.51093pt too high) detected at line 1913
+Overfull \vbox (310.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (284.51093pt too high) detected at line 1913
+Overfull \vbox (311.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (285.51093pt too high) detected at line 1913
+Overfull \vbox (312.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (286.51093pt too high) detected at line 1913
+Overfull \vbox (313.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (287.51093pt too high) detected at line 1913
+Overfull \vbox (314.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (288.51093pt too high) detected at line 1913
+Overfull \vbox (315.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (289.51093pt too high) detected at line 1913
+Overfull \vbox (316.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (290.51093pt too high) detected at line 1913
+Overfull \vbox (317.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (291.51093pt too high) detected at line 1913
+Overfull \vbox (318.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (292.51093pt too high) detected at line 1913
+Overfull \vbox (319.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (293.51093pt too high) detected at line 1913
+Overfull \vbox (320.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (294.51093pt too high) detected at line 1913
+Overfull \vbox (321.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (295.51093pt too high) detected at line 1913
+Overfull \vbox (322.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (296.51093pt too high) detected at line 1913
+Overfull \vbox (323.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (297.51093pt too high) detected at line 1913
+Overfull \vbox (324.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (298.51093pt too high) detected at line 1913
+Overfull \vbox (325.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (299.51093pt too high) detected at line 1913
+Overfull \vbox (326.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (300.51093pt too high) detected at line 1913
+Overfull \vbox (327.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (301.51093pt too high) detected at line 1913
+Overfull \vbox (328.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (302.51093pt too high) detected at line 1913
+Overfull \vbox (329.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (303.51093pt too high) detected at line 1913
+Overfull \vbox (330.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (304.51093pt too high) detected at line 1913
+Overfull \vbox (331.61096pt too high) detected at line 1937
  []
 
 
-Overfull \vbox (305.51093pt too high) detected at line 1913
+Overfull \vbox (332.61096pt too high) detected at line 1937
  []
 
 
 Package mdframed Warning: correct box splittet fails
  It seems you are using a non splittable contents
-(mdframed)                 on input line 1913.
+(mdframed)                 on input line 1937.
 
 Package mdframed Info: You first box width is to small
  mdframed fixed it
-(mdframed)              on input line 1913.
+(mdframed)              on input line 1937.
 [28]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1915.
+(mdframed)             works with oneside mode on input line 1939.
 
-<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_64_2.png, id=294, 716.
+<2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_64_2.png, id=307, 716.
 6775pt x 282.05376pt>
 File: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_64_2.png Graphic 
 file (type png)
 
 <use 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_64_2.png>
 Package pdftex.def Info: 2014_Osler_Data_Analysis_files/2014_Osler_Data_Analysi
-s_64_2.png used on input line 1918.
+s_64_2.png used on input line 1942.
 (pdftex.def)             Requested size: 716.67577pt x 282.05305pt.
 
 
-Package xcolor Warning: Incompatible color definition on input line 1926.
+Package xcolor Warning: Incompatible color definition on input line 1950.
 
 
-Package xcolor Warning: Incompatible color definition on input line 1926.
+Package xcolor Warning: Incompatible color definition on input line 1950.
 
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1941.
+(mdframed)             works with oneside mode on input line 1965.
 
-Overfull \hbox (156.22305pt too wide) in paragraph at lines 1953--1953
+Overfull \hbox (156.22305pt too wide) in paragraph at lines 1977--1977
 [][]    \T1/pcr/m/sl/9.5 This function modifies the plotDI function of PmagPy f
 or use in the IPython notebook environment[][] 
  []
 
 
-Overfull \hbox (8.02313pt too wide) in paragraph at lines 1958--1958
+Overfull \hbox (8.02313pt too wide) in paragraph at lines 1982--1982
 [][]    \T1/pcr/m/sl/9.5 DIblock : a DIblock is comprise of a list of unit vect
 ors [dec,inc,1.][][] 
  []
 
 
-Overfull \hbox (25.12312pt too wide) in paragraph at lines 1959--1959
+Overfull \hbox (25.12312pt too wide) in paragraph at lines 1983--1983
 [][]    \T1/pcr/m/sl/9.5 color : the default color is black. Other colors can b
 e chosen (e.g. 'r')[][] 
  []
 
 
-Overfull \hbox (167.62305pt too wide) in paragraph at lines 1981--1981
+Overfull \hbox (167.62305pt too wide) in paragraph at lines 2005--2005
 [][]    \T1/pcr/m/sl/9.5 Conduct a bootstrap test (Tauxe, 2010) for a common me
 an on two declination, inclination data sets[][] 
  []
 
 
-Overfull \hbox (150.52306pt too wide) in paragraph at lines 1983--1983
+Overfull \hbox (150.52306pt too wide) in paragraph at lines 2007--2007
 [][]    \T1/pcr/m/sl/9.5 This function modifies code from PmagPy for use calcul
 ating and plotting bootstrap statistics. [][] 
  []
 
 
-Overfull \hbox (327.22296pt too wide) in paragraph at lines 1985--1985
+Overfull \hbox (327.22296pt too wide) in paragraph at lines 2009--2009
 [][]    \T1/pcr/m/sl/9.5 If the 95 percent confidence bounds for each component
  overlap each other, the two directions are not significantly different.[][] 
  []
 
 
-Overfull \hbox (82.1231pt too wide) in paragraph at lines 2011--2011
+Overfull \hbox (82.1231pt too wide) in paragraph at lines 2035--2035
 [][]    \T1/pcr/m/sl/9.5 Conduct a Watson V test for a common mean on two decli
 nation, inclination data sets[][] 
  []
 
 
-Overfull \hbox (156.22305pt too wide) in paragraph at lines 2013--2013
+Overfull \hbox (156.22305pt too wide) in paragraph at lines 2037--2037
 [][]    \T1/pcr/m/sl/9.5 This function calculates Watson's V statistic from inu
 mpyut files through Monte Carlo simulation[][] 
  []
 
 
-Overfull \hbox (190.42303pt too wide) in paragraph at lines 2014--2014
+Overfull \hbox (190.42303pt too wide) in paragraph at lines 2038--2038
 [][]    \T1/pcr/m/sl/9.5 in order to test whether two populations of directiona
 l data could have been drawn from a common mean.[][] 
  []
 
 
-Overfull \hbox (384.22293pt too wide) in paragraph at lines 2015--2015
+Overfull \hbox (384.22293pt too wide) in paragraph at lines 2039--2039
 [][]    \T1/pcr/m/sl/9.5 The critical angle between the two sample mean directi
 ons and the corresponding McFadden and McElhinny (1990) classification is print
 ed.[][] 
  []
 
 
-Overfull \hbox (2.32314pt too wide) in paragraph at lines 2068--2068
+Overfull \hbox (2.32314pt too wide) in paragraph at lines 2092--2092
 []    []\T1/pcr/m/sl/9.5 # equation 18 of McFadden and McElhinny, 1990 calculat
 es the critical[][] 
  []
 
 
-Overfull \hbox (2.32314pt too wide) in paragraph at lines 2073--2073
+Overfull \hbox (2.32314pt too wide) in paragraph at lines 2097--2097
 []    []\T1/pcr/m/sl/9.5 # following equation 19 of McFadden and McElhinny (199
 0) the critical[][] 
  []
 
 
-Overfull \hbox (13.72313pt too wide) in paragraph at lines 2075--2075
+Overfull \hbox (13.72313pt too wide) in paragraph at lines 2099--2099
 []    []\T1/pcr/m/sl/9.5 # between the data set means exceeds the critical angl
 e the hypothesis [][] 
  []
 
 
-Overfull \hbox (8.36511pt too wide) in paragraph at lines 2078--2078
+Overfull \hbox (8.36511pt too wide) in paragraph at lines 2102--2102
 []    []\T1/pcr/m/sl/9.5 # Watson's V parameter so it makes sense to use the Wa
 tson V parameter[][] 
  []
 
 
-Overfull \hbox (2.32314pt too wide) in paragraph at lines 2079--2079
+Overfull \hbox (2.32314pt too wide) in paragraph at lines 2103--2103
 []    []\T1/pcr/m/sl/9.5 # in comparison with the critical value of V for consi
 dering the test[][] 
  []
 
 
-Overfull \hbox (264.523pt too wide) in paragraph at lines 2139--2139
+Overfull \hbox (264.523pt too wide) in paragraph at lines 2163--2163
 [][]    \T1/pcr/m/sl/9.5 This function enables A95 error ellipses to be drawn i
 n basemap around paleomagnetic poles in conjunction with equi[][] 
  []
 
 
-Overfull \hbox (133.42307pt too wide) in paragraph at lines 2140--2140
+Overfull \hbox (133.42307pt too wide) in paragraph at lines 2164--2164
 [][]    \T1/pcr/m/sl/9.5 (from: http://www.geophysique.be/2011/02/20/matplotlib
 -basemap-tutorial-09-drawing-circles/)[][] 
  []
 
 
-Overfull \hbox (59.3231pt too wide) in paragraph at lines 2148--2148
+Overfull \hbox (59.3231pt too wide) in paragraph at lines 2172--2172
 []    []\T1/pcr/b/n/9.5 if[] \T1/pcr/m/n/9.5 ((numpy[].[]abs(numpy[].[]cos(glat
 1))[]<[]EPS) []\T1/pcr/b/n/9.5 and[] []not[] \T1/pcr/m/n/9.5 (numpy[].[]abs(num
 py[].[]sin(faz))[]<[]EPS)):[] 
  []
 
 
-Overfull \hbox (47.92311pt too wide) in paragraph at lines 2194--2194
+Overfull \hbox (47.92311pt too wide) in paragraph at lines 2218--2218
 []    \T1/pcr/m/n/9.5 glon2 []=[] ((glon1 []+[] x []-[] ([]1.[] []-[] c) []*[] 
 d []*[] f []+[] numpy[].[]pi) []%[] ([]2[][]*[]numpy[].[]pi)) []-[] numpy[].[]p
 i[] 
  []
 
 
-Overfull \hbox (270.22299pt too wide) in paragraph at lines 2206--2206
+Overfull \hbox (270.22299pt too wide) in paragraph at lines 2230--2230
 [][]    \T1/pcr/m/sl/9.5 This function enables A95 error ellipses to be drawn i
 n basemap around paleomagnetic poles in conjunction with shoot[][] 
  []
 
 
-Overfull \hbox (139.12306pt too wide) in paragraph at lines 2207--2207
+Overfull \hbox (139.12306pt too wide) in paragraph at lines 2231--2231
 [][]    \T1/pcr/m/sl/9.5 (from: http://www.geophysique.be/2011/02/20/matplotlib
 -basemap-tutorial-09-drawing-circles/).[][] 
  []
@@ -5486,23 +5494,23 @@ Overfull \hbox (139.12306pt too wide) in paragraph at lines 2207--2207
 4_Osler_Data_Analysis_files/2014_Osler_Data_Analysis_64_2.png>] [30] [31]
 [32] [33]
 No file 2014_Osler_Data_Analysis.ind.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2236.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2260.
 [34]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 2236.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 2260.
  (./2014_Osler_Data_Analysis.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2236.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2236.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2260.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2260.
 
 Package rerunfilecheck Info: File `2014_Osler_Data_Analysis.out' has not change
 d.
-(rerunfilecheck)             Checksum: B96ACE6676F2C218428A12F30BD89B15;2693.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2236.
+(rerunfilecheck)             Checksum: 6431B638D77537ECFC559E838ED844E4;2696.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2260.
  ) 
 Here is how much of TeX's memory you used:
- 27154 strings out of 493315
- 478276 string characters out of 6137904
- 726994 words of memory out of 5000000
- 29965 multiletter control sequences out of 15000+600000
+ 27158 strings out of 493315
+ 478278 string characters out of 6137904
+ 727023 words of memory out of 5000000
+ 29964 multiletter control sequences out of 15000+600000
  52737 words of font info for 65 fonts, out of 8000000 for 9000
  958 hyphenation exceptions out of 8191
  56i,10n,78p,2163b,978s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -5517,10 +5525,10 @@ fonts/type1/urw/courier/ucrro8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/t
 ype1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/ur
 w/times/utmb8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/times/ut
 mr8a.pfb>
-Output written on 2014_Osler_Data_Analysis.pdf (34 pages, 582543 bytes).
+Output written on 2014_Osler_Data_Analysis.pdf (34 pages, 582913 bytes).
 PDF statistics:
- 372 PDF objects out of 1000 (max. 8388607)
- 254 compressed objects within 3 object streams
- 59 named destinations out of 1000 (max. 500000)
+ 386 PDF objects out of 1000 (max. 8388607)
+ 268 compressed objects within 3 object streams
+ 64 named destinations out of 1000 (max. 500000)
  420 words of extra memory for PDF output out of 10000 (max. 10000000)
 
