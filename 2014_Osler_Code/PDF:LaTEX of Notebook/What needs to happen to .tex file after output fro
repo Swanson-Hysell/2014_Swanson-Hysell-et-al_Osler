@@ -1,0 +1,6 @@
+What needs to happen to .tex file after output from ipython nbconvert --to latex 2014_Osler_Data_Analysis.ipynb
+
+remove "Unknown Author" header info
+add reference to latex data table
+           \clearpage
+           \input{SimpsonIsland_OslerData.txt}
