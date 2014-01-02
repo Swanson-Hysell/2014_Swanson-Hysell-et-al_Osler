@@ -1,6 +1,6 @@
 Overview
 ===============================
-This repository contains a manuscript in preparation for submission to the American Geophysical Union journal entitled "Geochemistry Geophysic Geosystems" along with the raw data and code used for the manuscript's data analysis. The manuscript is entitled "Significant plate motion during the early magmatic stage of North American Midcontinent Rift development" with the authors being: Nicholas. L. Swanson-Hysell, Angus A. Vaughan, Monica R. Mustain, and Kristofer Asp.
+This repository contains a manuscript in review at the American Geophysical Union journal entitled "Geochemistry Geophysic Geosystems" along with the raw data and code used for the manuscript's data analysis. The manuscript is entitled "Significant plate motion during the early magmatic stage of North American Midcontinent Rift development" with the authors being: Nicholas. L. Swanson-Hysell, Angus A. Vaughan, Monica R. Mustain, and Kristofer Asp.
 
 Contents
 ===============================
