@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  26 NOV 2013 21:06
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  6 APR 2014 12:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -301,26 +301,52 @@ Overfull \hbox (13.56433pt too wide) in paragraph at lines 173--173
  []
 
 
-Overfull \hbox (25.35893pt too wide) in paragraph at lines 173--173
-\OT1/cmr/m/n/12 gion (ca. 1110 Ma) and ca. 1105$\OMS/cmsy/m/n/12 ^^F$\OT1/cmr/m/n/12 2 Ma (the ``early stage" of rift de-vel-op-ment).
+Underfull \hbox (badness 10000) in paragraph at lines 173--173
+\OT1/cmr/m/n/12 ment). Pa-le-o-mag-netic poles can be cal-cu-lated for the lower por-tion of the
+ []
+
+
+Overfull \hbox (14.84964pt too wide) in paragraph at lines 173--173
+\OT1/cmr/m/n/12 re-versed Osler Group (41.0$[]$N, 218.7$[]$E, A$[]$=4.8$[]$, N=30) and the up-per por-
+ []
+
+
+Overfull \hbox (17.60938pt too wide) in paragraph at lines 173--173
+\OT1/cmr/m/n/12 tion of the re-versed Osler Group (42.5$[]$N, 201.6$[]$E, A$[]$=3.7$[]$, N=59; this pole
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 173--173
-\OT1/cmr/m/n/12 Osler Group (41.0$[]$N, 218.7$[]$E, A$[]$=4.8$[]$, N=30) and the up-per por-tion of
+\OT1/cmr/m/n/12 can be as-signed the age of ca. 1105 $\OMS/cmsy/m/n/12 ^^F$ \OT1/cmr/m/n/12 2 Ma). This re-sult is a pos-i-tive test
  []
 
 
-Overfull \hbox (22.37408pt too wide) in paragraph at lines 173--173
-\OT1/cmr/m/n/12 rift de-vel-op-ment. In ad-di-tion to be-ing a time of widespread vol-can-ism on Lau-
+Overfull \hbox (26.32959pt too wide) in paragraph at lines 173--173
+\OT1/cmr/m/n/12 of the hy-poth-e-sis that there was sig-nif-i-cant plate mo-tion dur-ing the early stage
  []
 
 
-Overfull \hbox (22.91292pt too wide) in paragraph at lines 173--173
-\OT1/cmr/m/n/12 ren-tia and other con-ti-nents, this in-ter-val of the late Meso-pro-tero-zoic was char-
+Overfull \hbox (12.87271pt too wide) in paragraph at lines 173--173
+\OT1/cmr/m/n/12 Lau-ren-tia and other con-ti-nents, this in-ter-val of the late Meso-pro-tero-zoic was
  []
 
-[2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] <2014_Osler_Figures/Simpson_Island_Map.pdf, id=69, 693.59125pt x 509.07993pt>
+[2]
+
+Package natbib Warning: Citation `Robertson1971a' on page 3 undefined on input line 184.
+
+
+Package natbib Warning: Citation `Swanson-Hysell2014a' on page 3 undefined on input line 184.
+
+
+Package natbib Warning: Citation `Buchan2013a' on page 3 undefined on input line 184.
+
+
+Package natbib Warning: Citation `Swanson-Hysell2014a' on page 3 undefined on input line 184.
+
+
+Package natbib Warning: Citation `Swanson-Hysell2014a' on page 3 undefined on input line 184.
+
+[3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] <2014_Osler_Figures/Simpson_Island_Map.pdf, id=69, 693.59125pt x 509.07993pt>
 File: 2014_Osler_Figures/Simpson_Island_Map.pdf Graphic file (type pdf)
  <use 2014_Osler_Figures/Simpson_Island_Map.pdf>
 Package pdftex.def Info: 2014_Osler_Figures/Simpson_Island_Map.pdf used on input line 522.
@@ -345,20 +371,24 @@ File: 2014_Osler_Figures/OslerStrat&EA.pdf Graphic file (type pdf)
  <use 2014_Osler_Figures/OslerStrat&EA.pdf>
 Package pdftex.def Info: 2014_Osler_Figures/OslerStrat&EA.pdf used on input line 534.
 (pdftex.def)             Requested size: 393.6015pt x 358.0062pt.
- [19 <./2014_Osler_Figures/Simpson_Island_Map.pdf>] [20 <./2014_Osler_Figures/PmagRockmag.pdf>] [21 <./2014_Osler_Figures/OslerStrat&EA.pdf>] (/Users/polarwander/2014_Swanson-Hysell-et-al_Osler/2014_Osler_Manuscript_Files/.texpadtmp/2014_Osler_Manuscript.aux) ) 
+
+
+Package natbib Warning: There were undefined citations.
+
+[19] [20 <./2014_Osler_Figures/Simpson_Island_Map.pdf>] [21 <./2014_Osler_Figures/PmagRockmag.pdf>] [22 <./2014_Osler_Figures/OslerStrat&EA.pdf>] (/Users/polarwander/2014_Swanson-Hysell-et-al_Osler/2014_Osler_Manuscript_Files/.texpadtmp/2014_Osler_Manuscript.aux) ) 
 Here is how much of TeX's memory you used:
- 2608 strings out of 493315
- 36298 string characters out of 6137904
+ 2611 strings out of 493315
+ 36348 string characters out of 6137904
  114248 words of memory out of 5000000
- 6059 multiletter control sequences out of 15000+600000
+ 6062 multiletter control sequences out of 15000+600000
  13617 words of font info for 47 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 37i,6n,24p,3548b,437s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,6n,24p,3548b,433s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on /Users/polarwander/2014_Swanson-Hysell-et-al_Osler/2014_Osler_Manuscript_Files/.texpadtmp/2014_Osler_Manuscript.pdf (21 pages, 1614894 bytes).
+Output written on /Users/polarwander/2014_Swanson-Hysell-et-al_Osler/2014_Osler_Manuscript_Files/.texpadtmp/2014_Osler_Manuscript.pdf (22 pages, 1615085 bytes).
 PDF statistics:
- 273 PDF objects out of 1000 (max. 8388607)
- 141 compressed objects within 2 object streams
+ 276 PDF objects out of 1000 (max. 8388607)
+ 143 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
