@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  8 APR 2014 22:53
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  15 APR 2014 12:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -315,79 +315,56 @@ Overfull \hbox (36.74068pt too wide) in paragraph at lines 173--173
 \OT1/cmr/m/n/12 ing the early stage of rift de-vel-op-ment. In ad-di-tion to be-ing a time of widespread
  []
 
-[2]
-
-Package natbib Warning: Citation `Robertson1971a' on page 3 undefined on input line 184.
-
-
-Package natbib Warning: Citation `Swanson-Hysell2014a' on page 3 undefined on input line 184.
-
-
-Package natbib Warning: Citation `Buchan2013a' on page 3 undefined on input line 184.
-
-
-Package natbib Warning: Citation `Swanson-Hysell2014a' on page 3 undefined on input line 184.
-
-
-Package natbib Warning: Citation `Swanson-Hysell2014a' on page 3 undefined on input line 184.
-
-[3] [4] [5] [6] [7] [8] [9] [10]
+[2] [3] [4] [5] [6] [7] [8] [9] [10]
 
 Package natbib Warning: Citation `Hall1974a' on page 11 undefined on input line 230.
 
-[11]
-
-Package natbib Warning: Citation `Sleep1997a' on page 12 undefined on input line 237.
-
-
-Package natbib Warning: Citation `Ebinger1998a' on page 12 undefined on input line 237.
-
-[12] [13] [14] [15] [16] [17] [18] <2014_Osler_Figures/Simpson_Island_Map.pdf, id=69, 693.59125pt x 509.07993pt>
+[11] [12] [13] [14] [15] [16] [17] [18] [19] <2014_Osler_Figures/Simpson_Island_Map.pdf, id=74, 693.59125pt x 509.07993pt>
 File: 2014_Osler_Figures/Simpson_Island_Map.pdf Graphic file (type pdf)
  <use 2014_Osler_Figures/Simpson_Island_Map.pdf>
-Package pdftex.def Info: 2014_Osler_Figures/Simpson_Island_Map.pdf used on input line 524.
+Package pdftex.def Info: 2014_Osler_Figures/Simpson_Island_Map.pdf used on input line 555.
 (pdftex.def)             Requested size: 492.0pt x 361.12302pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 524--525
+Underfull \hbox (badness 10000) in paragraph at lines 555--556
 
  []
 
-<2014_Osler_Figures/PmagRockmag.pdf, id=70, 1160.7766pt x 442.63167pt>
+<2014_Osler_Figures/PmagRockmag.pdf, id=75, 1160.7766pt x 442.63167pt>
 File: 2014_Osler_Figures/PmagRockmag.pdf Graphic file (type pdf)
  <use 2014_Osler_Figures/PmagRockmag.pdf>
-Package pdftex.def Info: 2014_Osler_Figures/PmagRockmag.pdf used on input line 530.
+Package pdftex.def Info: 2014_Osler_Figures/PmagRockmag.pdf used on input line 561.
 (pdftex.def)             Requested size: 492.0pt x 187.6128pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--531
+Underfull \hbox (badness 10000) in paragraph at lines 561--562
 
  []
 
-<2014_Osler_Figures/OslerStrat&EA.pdf, id=71, 580.1645pt x 527.69449pt>
+<2014_Osler_Figures/OslerStrat&EA.pdf, id=76, 580.1645pt x 527.69449pt>
 File: 2014_Osler_Figures/OslerStrat&EA.pdf Graphic file (type pdf)
  <use 2014_Osler_Figures/OslerStrat&EA.pdf>
-Package pdftex.def Info: 2014_Osler_Figures/OslerStrat&EA.pdf used on input line 536.
+Package pdftex.def Info: 2014_Osler_Figures/OslerStrat&EA.pdf used on input line 567.
 (pdftex.def)             Requested size: 393.6015pt x 358.0062pt.
 
 
-LaTeX Warning: Float too large for page by 11.87534pt on input line 539.
+LaTeX Warning: Float too large for page by 11.87534pt on input line 570.
 
 
 Package natbib Warning: There were undefined citations.
 
-[19] [20 <./2014_Osler_Figures/Simpson_Island_Map.pdf>] [21 <./2014_Osler_Figures/PmagRockmag.pdf>] [22 <./2014_Osler_Figures/OslerStrat&EA.pdf>] (/Users/polarwander/2014_Swanson-Hysell-et-al_Osler/2014_Osler_Manuscript_Files/.texpadtmp/2014_Osler_Manuscript.aux) ) 
+[20] [21 <./2014_Osler_Figures/Simpson_Island_Map.pdf>] [22 <./2014_Osler_Figures/PmagRockmag.pdf>] [23 <./2014_Osler_Figures/OslerStrat&EA.pdf>] (/Users/polarwander/2014_Swanson-Hysell-et-al_Osler/2014_Osler_Manuscript_Files/.texpadtmp/2014_Osler_Manuscript.aux) ) 
 Here is how much of TeX's memory you used:
- 2614 strings out of 493315
- 36385 string characters out of 6137904
- 115248 words of memory out of 5000000
- 6065 multiletter control sequences out of 15000+600000
- 13617 words of font info for 47 fonts, out of 8000000 for 9000
+ 2617 strings out of 493315
+ 36421 string characters out of 6137904
+ 115518 words of memory out of 5000000
+ 6067 multiletter control sequences out of 15000+600000
+ 13976 words of font info for 48 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 37i,6n,24p,3548b,429s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on /Users/polarwander/2014_Swanson-Hysell-et-al_Osler/2014_Osler_Manuscript_Files/.texpadtmp/2014_Osler_Manuscript.pdf (22 pages, 1616629 bytes).
+ 37i,6n,24p,3548b,441s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on /Users/polarwander/2014_Swanson-Hysell-et-al_Osler/2014_Osler_Manuscript_Files/.texpadtmp/2014_Osler_Manuscript.pdf (23 pages, 1633967 bytes).
 PDF statistics:
- 276 PDF objects out of 1000 (max. 8388607)
- 143 compressed objects within 2 object streams
+ 283 PDF objects out of 1000 (max. 8388607)
+ 148 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
