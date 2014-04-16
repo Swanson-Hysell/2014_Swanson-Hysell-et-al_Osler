@@ -3,6 +3,16 @@ import pylab
 import numpy
 import matplotlib.pyplot as plt
 
+def iflip(D): #function simplified from PmagPy pmag.flip function
+    """
+    This function returns the antipode (flips) of the unit vectors in D (dec,inc,length).
+    """
+    Dflip=[]
+    for rec in D:
+        d,i=(rec[0]-180.)%360.,-rec[1]
+        Dflip.append([d,i,1.])
+    return Dflip
+
 def iplotDI(DIblock,color='k'):
     """
     Plot declination, inclination data on a equal area plot
@@ -63,7 +73,7 @@ def iBootstrap(Data1,Data2,NumSims=1000):
 
 
     
-def iWatsonV(Data1,Data2,NumSims=1000):
+def iWatsonV(Data1,Data2,NumSims=5000):
     """
     Conduct a Watson V test for a common mean on two declination, inclination data sets
     
@@ -77,7 +87,7 @@ def iWatsonV(Data1,Data2,NumSims=1000):
 
     Data1 : a list of directional data [dec,inc]
     Data2 : a list of directional data [dec,inc]
-    NumSims : number of Monte Carlo simulations (default is 1000)
+    NumSims : number of Monte Carlo simulations (default is 5000)
     """   
     pars_1=pmag.fisher_mean(Data1)
     pars_2=pmag.fisher_mean(Data2)
@@ -276,3 +286,74 @@ def equi(m, centerlon, centerlat, radius, color):
  
     X,Y = m(X,Y)
     plt.plot(X,Y,color)
+
+def poleplot(mapname,plong,plat,A95,label='',color='k',marker='o'):
+    """
+    This function plots a paleomagnetic pole on whatever current map projection has been set using the basemap plotting library.
+
+    Parameters
+    -----------
+    mapname : the name of the current map that has been developed using basemap
+    plong : the longitude of the paleomagnetic pole being plotted (in degrees E)
+    plat : the latitude of the paleomagnetic pole being plotted (in degrees)
+    A95 : the A_95 confidence ellipse of the paleomagnetic pole (in degrees)
+    label : a string that is the label for the paleomagnetic pole being plotted
+    color : the color desired for the symbol and its A95 ellipse (default is 'k' aka black)
+    marker : the marker shape desired for the pole mean symbol (default is 'o' aka a circle)
+    """
+    centerlon, centerlat = mapname(plong,plat)
+    A95_km=A95*111.32
+    mapname.scatter(centerlon,centerlat,20,marker=marker,color=color,label=label,zorder=101)
+    equi(mapname, plong, plat, A95_km,color)
+
+def vgpplot(mapname,plong,plat,label='',color='k',marker='o'):
+    """
+    This function plots a paleomagnetic pole on whatever current map projection has been set using the basemap plotting library.
+
+    Parameters
+    -----------
+    mapname : the name of the current map that has been developed using basemap
+    plong : the longitude of the paleomagnetic pole being plotted (in degrees E)
+    plat : the latitude of the paleomagnetic pole being plotted (in degrees)
+    color : the color desired for the symbol and its A95 ellipse (default is 'k' aka black)
+    marker : the marker shape desired for the pole mean symbol (default is 'o' aka a circle)
+    """
+    centerlon, centerlat = mapname(plong,plat)
+    mapname.scatter(centerlon,centerlat,20,marker=marker,color=color,label=label,zorder=100)
+
+def VGP_calc(dataframe):
+    """
+    This function calculates paleomagnetic poles from directional data within a pandas.DataFrame
+
+    Parameters
+    ----------- 
+    dataframe : the name of the pandas.DataFrame containing the data
+    dataframe['site_lat'] : the latitude of the site
+    dataframe['site_long'] : the longitude of the site
+    dataframe['inc_tc'] : the tilt-corrected inclination 
+    dataframe['dec_tc'] : the tilt-corrected declination
+    """
+    #calculate the paleolatitude/colatitude
+    dataframe['paleolatitude']=np.degrees(np.arctan(0.5*np.tan(np.radians(dataframe['inc_tc']))))
+    dataframe['colatitude']=90-dataframe['paleolatitude']
+    #calculate the latitude of the pole
+    dataframe['pole_lat']=np.degrees(np.arcsin(np.sin(np.radians(dataframe['site_lat']))*
+                                                         np.cos(np.radians(dataframe['colatitude']))+
+                                                         np.cos(np.radians(dataframe['site_lat']))*
+                                                         np.sin(np.radians(dataframe['colatitude']))*
+                                                         np.cos(np.radians(dataframe['dec_tc']))))
+    #calculate the longitudinal difference between the pole and the site (beta)
+    dataframe['beta']=np.degrees(np.arcsin((np.sin(np.radians(dataframe['colatitude']))*
+                                      np.sin(np.radians(dataframe['dec_tc'])))/
+                                     (np.cos(np.radians(dataframe['pole_lat'])))))
+    #generate a boolean array (mask) to use to distinguish between the two possibilities for pole longitude
+    #and then calculate pole longitude using the site location and calculated beta
+    mask = np.cos(np.radians(dataframe['colatitude']))>np.sin(np.radians(dataframe['site_lat']))*np.sin(np.radians(dataframe['pole_lat']))
+    dataframe['pole_long']=np.where(mask,(dataframe['site_long']+dataframe['beta'])%360.,(dataframe['site_long']+180-dataframe['beta'])%360.)
+    #calculate the antipode of the poles
+    dataframe['pole_lat_rev']=-dataframe['pole_lat']
+    dataframe['pole_long_rev']=(dataframe['pole_long']-180.)%360. 
+    #the 'colatitude' and 'beta' columns were created for the purposes of the pole calculations
+    #but aren't of further use and are deleted
+    del dataframe['colatitude']
+    del dataframe['beta']
