@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  17 APR 2014 12:07
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  17 APR 2014 16:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -362,9 +362,9 @@ Here is how much of TeX's memory you used:
  6075 multiletter control sequences out of 15000+600000
  13617 words of font info for 47 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 37i,6n,24p,3641b,449s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,6n,24p,3640b,449s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on /Users/polarwander/2014_Swanson-Hysell-et-al_Osler/2014_Osler_Manuscript_Files/.texpadtmp/2014_Osler_Manuscript.pdf (26 pages, 1969367 bytes).
+Output written on /Users/polarwander/2014_Swanson-Hysell-et-al_Osler/2014_Osler_Manuscript_Files/.texpadtmp/2014_Osler_Manuscript.pdf (26 pages, 1969274 bytes).
 PDF statistics:
  343 PDF objects out of 1000 (max. 8388607)
  158 compressed objects within 2 object streams
