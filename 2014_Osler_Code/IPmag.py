@@ -1,6 +1,6 @@
 import pmag, pmagplotlib
 import pylab
-import numpy
+import numpy as np
 import matplotlib.pyplot as plt
 
 def iflip(D): #function simplified from PmagPy pmag.flip function
@@ -12,44 +12,16 @@ def iflip(D): #function simplified from PmagPy pmag.flip function
         d,i=(rec[0]-180.)%360.,-rec[1]
         Dflip.append([d,i,1.])
     return Dflip
-
-def iplotDI(DIblock,color='k'):
-    """
-    Plot declination, inclination data on a equal area plot
-
-    This function modifies the plotDI function of PmagPy for use in the IPython notebook environment
-
-    Parameters
-    ----------
-
-    DIblock : a DIblock is comprise of a list of unit vectors [dec,inc,1.]
-    color : the default color is black. Other colors can be chosen (e.g. 'r')
-    """
-    # initialize the variables
-    X_down,X_up,Y_down,Y_up=[],[],[],[]
-    for rec in DIblock:
-        Up,Down=0,0
-        XY=pmag.dimap(rec[0],rec[1])
-        if rec[1] >= 0:         
-            X_down.append(XY[0])
-            Y_down.append(XY[1])
-        else:
-            X_up.append(XY[0])
-            Y_up.append(XY[1])
-
-    if len(X_up)>0:
-        pylab.scatter(X_up,Y_up,facecolors='none', edgecolors=color)
-
-    if len(X_down)>0: 
-        pylab.scatter(X_down,Y_down,facecolors=color, edgecolors=color)
         
 def iBootstrap(Data1,Data2,NumSims=1000):
     """
-    Conduct a bootstrap test (Tauxe, 2010) for a common mean on two declination, inclination data sets
+    Conduct a bootstrap test (Tauxe, 2010) for a common mean on two declination,
+    inclination data sets
     
-    This function modifies code from PmagPy for use calculating and plotting bootstrap statistics. 
-    Three plots are generated (one for x, one for y and one for z).
-    If the 95 percent confidence bounds for each component overlap each other, the two directions are not significantly different.
+    This function modifies code from PmagPy for use calculating and plotting 
+    bootstrap statistics. Three plots are generated (one for x, one for y and
+    one for z). If the 95 percent confidence bounds for each component overlap
+    each other, the two directions are not significantly different.
 
     Parameters
     ----------
@@ -66,20 +38,19 @@ def iBootstrap(Data1,Data2,NumSims=1000):
     print ""
     print "Here are the results of the bootstrap test for a common mean"
     CDF={'X':1,'Y':2,'Z':3}
-    pylab.figure(CDF['X'],figsize=(4,4),dpi=160)
-    pylab.figure(CDF['Y'],figsize=(4,4),dpi=160)
-    pylab.figure(CDF['Z'],figsize=(4,4),dpi=160)
+    pylab.figure(CDF['X'],figsize=(3,3),dpi=160)
+    pylab.figure(CDF['Y'],figsize=(3,3),dpi=160)
+    pylab.figure(CDF['Z'],figsize=(3,3),dpi=160)
     pmagplotlib.plotCOM(CDF,BDI1,BDI2,["",""])
-
-
     
 def iWatsonV(Data1,Data2,NumSims=5000):
     """
     Conduct a Watson V test for a common mean on two declination, inclination data sets
     
-    This function calculates Watson's V statistic from inumpyut files through Monte Carlo simulation
-    in order to test whether two populations of directional data could have been drawn from a common mean.
-    The critical angle between the two sample mean directions and the corresponding McFadden and McElhinny (1990) classification is printed.
+    This function calculates Watson's V statistic from input files through Monte Carlo
+    simulation in order to test whether two populations of directional data could have
+    been drawn from a common mean. The critical angle between the two sample mean
+    directions and the corresponding McFadden and McElhinny (1990) classification is printed.
 
 
     Parameters
@@ -98,7 +69,7 @@ def iWatsonV(Data1,Data2,NumSims=5000):
     xhat_1=pars_1['k']*cart_1[0]+pars_2['k']*cart_2[0] # k1*x1+k2*x2
     xhat_2=pars_1['k']*cart_1[1]+pars_2['k']*cart_2[1] # k1*y1+k2*y2
     xhat_3=pars_1['k']*cart_1[2]+pars_2['k']*cart_2[2] # k1*z1+k2*z2
-    Rw=numpy.sqrt(xhat_1**2+xhat_2**2+xhat_3**2)
+    Rw=np.sqrt(xhat_1**2+xhat_2**2+xhat_3**2)
     V=2*(Sw-Rw)
     # keep weighted sum for later when determining the "critical angle" 
     # let's save it as Sr (notation of McFadden and McElhinny, 1990)
@@ -152,7 +123,7 @@ def iWatsonV(Data1,Data2,NumSims=5000):
     k2=pars_2['k']
     R1=pars_1['r']
     R2=pars_2['r']
-    critical_angle=numpy.degrees(numpy.arccos(((Rwc**2)-((k1*R1)**2)
+    critical_angle=np.degrees(np.arccos(((Rwc**2)-((k1*R1)**2)
                                                -((k2*R2)**2))/
                                               (2*k1*R1*k2*R2)))
     D1=(pars_1['dec'],pars_1['inc'])
@@ -197,40 +168,103 @@ def lat_from_i(inc):
     """
     Calculate paleolatitude from inclination using the dipole equation
     """
-    rad=numpy.pi/180.
-    paleo_lat=numpy.arctan( 0.5*numpy.tan(inc*rad))/rad
+    rad=np.pi/180.
+    paleo_lat=np.arctan( 0.5*np.tan(inc*rad))/rad
     return paleo_lat
+
+
+def iplotDI(DIblock,color='k'):
+    """
+    Plot declination, inclination data on an equal area plot
+
+    This function modifies the plotDI function of PmagPy for use in the IPython notebook environment
+
+    Parameters
+    ----------
+
+    DIblock : a DIblock is comprise of a list of unit vectors [dec,inc,1.]
+    color : the default color is black. Other colors can be chosen (e.g. 'r')
+    """
+    # initialize the variables
+    X_down,X_up,Y_down,Y_up=[],[],[],[]
+    for rec in DIblock:
+        Up,Down=0,0
+        XY=pmag.dimap(rec[0],rec[1])
+        if rec[1] >= 0:         
+            X_down.append(XY[0])
+            Y_down.append(XY[1])
+        else:
+            X_up.append(XY[0])
+            Y_up.append(XY[1])
+
+    if len(X_up)>0:
+        pylab.scatter(X_up,Y_up,facecolors='none', edgecolors=color)
+
+    if len(X_down)>0: 
+        pylab.scatter(X_down,Y_down,facecolors=color, edgecolors=color)
+
+def iplotDImean(Dec,Inc,a95,color='k',marker='o',label=''):
+    """
+    Plot a mean declination, inclination with alpha_95 ellipse on an equal area plot.
+
+    Before this function is called a plot needs to be initialized with code that looks 
+    something like:
+    >fignum = 1
+    >pylab.figure(num=fignum,figsize=(10,10),dpi=160)
+    >pmagplotlib.plotNET(fignum)
+
+    Parameters
+    ----------
+
+    Dec : declination of mean being plotted
+    Inc : inclination of mean being plotted
+    a95 : a95 confidence ellipse of mean being plotted
+    color : the default color is black. Other colors can be chosen (e.g. 'r')
+    marker : the default is a circle. Other symbols can be chose (e.g. 's')
+    label : the default is no label. Labels can be assigned
+    """
+    DI_dimap=pmag.dimap(Dec,Inc)
+    pylab.plot(DI_dimap[0],DI_dimap[1],color=color,marker=marker,label=label)
+    Xcirc,Ycirc=[],[]
+    Da95,Ia95=pmag.circ(Dec,Inc,a95)
+    pylab.legend(loc=2)
+    for k in  range(len(Da95)):
+        XY=pmag.dimap(Da95[k],Ia95[k])
+        Xcirc.append(XY[0])
+        Ycirc.append(XY[1])
+    pylab.plot(Xcirc,Ycirc,color)
     
 def shoot(lon, lat, azimuth, maxdist=None):
     """
-    This function enables A95 error ellipses to be drawn in basemap around paleomagnetic poles in conjunction with equi
+    This function enables A95 error ellipses to be drawn in basemap around paleomagnetic
+    poles in conjunction with equi
     (from: http://www.geophysique.be/2011/02/20/matplotlib-basemap-tutorial-09-drawing-circles/)
     """
-    glat1 = lat * numpy.pi / 180.
-    glon1 = lon * numpy.pi / 180.
+    glat1 = lat * np.pi / 180.
+    glon1 = lon * np.pi / 180.
     s = maxdist / 1.852
-    faz = azimuth * numpy.pi / 180.
+    faz = azimuth * np.pi / 180.
  
     EPS= 0.00000000005
-    if ((numpy.abs(numpy.cos(glat1))<EPS) and not (numpy.abs(numpy.sin(faz))<EPS)):
+    if ((np.abs(np.cos(glat1))<EPS) and not (np.abs(np.sin(faz))<EPS)):
         alert("Only N-S courses are meaningful, starting at a pole!")
  
     a=6378.13/1.852
     f=1/298.257223563
     r = 1 - f
-    tu = r * numpy.tan(glat1)
-    sf = numpy.sin(faz)
-    cf = numpy.cos(faz)
+    tu = r * np.tan(glat1)
+    sf = np.sin(faz)
+    cf = np.cos(faz)
     if (cf==0):
         b=0.
     else:
-        b=2. * numpy.arctan2 (tu, cf)
+        b=2. * np.arctan2 (tu, cf)
  
-    cu = 1. / numpy.sqrt(1 + tu * tu)
+    cu = 1. / np.sqrt(1 + tu * tu)
     su = tu * cu
     sa = cu * sf
     c2a = 1 - sa * sa
-    x = 1. + numpy.sqrt(1. + c2a * (1. / (r * r) - 1.))
+    x = 1. + np.sqrt(1. + c2a * (1. / (r * r) - 1.))
     x = (x - 2.) / x
     c = 1. - x
     c = (x * x / 4. + 1.) / c
@@ -238,11 +272,11 @@ def shoot(lon, lat, azimuth, maxdist=None):
     tu = s / (r * a * c)
     y = tu
     c = y + 1
-    while (numpy.abs (y - c) > EPS):
+    while (np.abs (y - c) > EPS):
  
-        sy = numpy.sin(y)
-        cy = numpy.cos(y)
-        cz = numpy.cos(b + y)
+        sy = np.sin(y)
+        cy = np.cos(y)
+        cz = np.cos(b + y)
         e = 2. * cz * cz - 1.
         c = y
         x = e * cy
@@ -251,26 +285,27 @@ def shoot(lon, lat, azimuth, maxdist=None):
               d / 4. - cz) * sy * d + tu
  
     b = cu * cy * cf - su * sy
-    c = r * numpy.sqrt(sa * sa + b * b)
+    c = r * np.sqrt(sa * sa + b * b)
     d = su * cy + cu * sy * cf
-    glat2 = (numpy.arctan2(d, c) + numpy.pi) % (2*numpy.pi) - numpy.pi
+    glat2 = (np.arctan2(d, c) + np.pi) % (2*np.pi) - np.pi
     c = cu * cy - su * sy * cf
-    x = numpy.arctan2(sy * sf, c)
+    x = np.arctan2(sy * sf, c)
     c = ((-3. * c2a + 4.) * f + 4.) * c2a * f / 16.
     d = ((e * cy * c + cz) * sy * c + y) * sa
-    glon2 = ((glon1 + x - (1. - c) * d * f + numpy.pi) % (2*numpy.pi)) - numpy.pi    
+    glon2 = ((glon1 + x - (1. - c) * d * f + np.pi) % (2*np.pi)) - np.pi    
  
-    baz = (numpy.arctan2(sa, b) + numpy.pi) % (2 * numpy.pi)
+    baz = (np.arctan2(sa, b) + np.pi) % (2 * np.pi)
  
-    glon2 *= 180./numpy.pi
-    glat2 *= 180./numpy.pi
-    baz *= 180./numpy.pi
+    glon2 *= 180./np.pi
+    glat2 *= 180./np.pi
+    baz *= 180./np.pi
  
     return (glon2, glat2, baz)
 
 def equi(m, centerlon, centerlat, radius, color):
     """
-    This function enables A95 error ellipses to be drawn in basemap around paleomagnetic poles in conjunction with shoot
+    This function enables A95 error ellipses to be drawn in basemap around paleomagnetic poles
+    in conjunction with shoot
     (from: http://www.geophysique.be/2011/02/20/matplotlib-basemap-tutorial-09-drawing-circles/).
     """
     glon1 = centerlon
@@ -289,7 +324,8 @@ def equi(m, centerlon, centerlat, radius, color):
 
 def poleplot(mapname,plong,plat,A95,label='',color='k',marker='o'):
     """
-    This function plots a paleomagnetic pole on whatever current map projection has been set using the basemap plotting library.
+    This function plots a paleomagnetic pole and A95 error ellipse on whatever 
+    current map projection has been set using the basemap plotting library.
 
     Parameters
     -----------
@@ -308,7 +344,8 @@ def poleplot(mapname,plong,plat,A95,label='',color='k',marker='o'):
 
 def vgpplot(mapname,plong,plat,label='',color='k',marker='o'):
     """
-    This function plots a paleomagnetic pole on whatever current map projection has been set using the basemap plotting library.
+    This function plots a paleomagnetic pole on whatever current map projection
+    has been set using the basemap plotting library.
 
     Parameters
     -----------

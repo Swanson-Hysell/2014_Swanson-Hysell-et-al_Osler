@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  17 APR 2014 16:52
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  18 APR 2014 18:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -226,18 +226,18 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 ) (/Users/polarwander/2014_Swanson-Hysell-et-al_Osler/2014_Osler_Manuscript_Files/.texpadtmp/2014_Osler_Manuscript.aux)
 \openout1 = `2014_Osler_Manuscript.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 114.
-LaTeX Font Info:    ... okay on input line 114.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 114.
-LaTeX Font Info:    ... okay on input line 114.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 114.
-LaTeX Font Info:    ... okay on input line 114.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 114.
-LaTeX Font Info:    ... okay on input line 114.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 114.
-LaTeX Font Info:    ... okay on input line 114.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 114.
-LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
  (/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count139
@@ -288,69 +288,69 @@ Package grfext Info: Graphics extension search list:
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 173.
+(Font)              <12> on input line 174.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 173.
+(Font)              <8> on input line 174.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 173.
+(Font)              <6> on input line 174.
  [1{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
-Overfull \hbox (13.56433pt too wide) in paragraph at lines 173--173
+Overfull \hbox (13.56433pt too wide) in paragraph at lines 174--174
 \OT1/cmr/m/n/12 ti-nents in-clud-ing the de-vel-op-ment of the North Amer-i-can Mid-con-ti-nent Rift.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 173--173
+Underfull \hbox (badness 10000) in paragraph at lines 174--174
 \OT1/cmr/m/n/12 ment). Pa-le-o-mag-netic poles can be cal-cu-lated for the lower por-tion of the
  []
 
 
-Overfull \hbox (30.51614pt too wide) in paragraph at lines 173--173
+Overfull \hbox (30.51614pt too wide) in paragraph at lines 174--174
 \OT1/cmr/m/n/12 up-per por-tion of the re-versed Osler Vol-canic Group (42.5$[]$N, 201.6$[]$E, A$[]$=3.7$[]$,
  []
 
 
-Overfull \hbox (36.74068pt too wide) in paragraph at lines 173--173
+Overfull \hbox (36.74068pt too wide) in paragraph at lines 174--174
 \OT1/cmr/m/n/12 ing the early stage of rift de-vel-op-ment. In ad-di-tion to be-ing a time of widespread
  []
 
 [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21] <2014_Osler_Figures/Simpson_Island_Map.pdf, id=79, 693.59125pt x 509.07993pt>
 File: 2014_Osler_Figures/Simpson_Island_Map.pdf Graphic file (type pdf)
  <use 2014_Osler_Figures/Simpson_Island_Map.pdf>
-Package pdftex.def Info: 2014_Osler_Figures/Simpson_Island_Map.pdf used on input line 583.
+Package pdftex.def Info: 2014_Osler_Figures/Simpson_Island_Map.pdf used on input line 584.
 (pdftex.def)             Requested size: 492.0pt x 361.12302pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 583--584
+Underfull \hbox (badness 10000) in paragraph at lines 584--585
 
  []
 
 <2014_Osler_Figures/PmagRockmag.pdf, id=80, 1160.7766pt x 442.63167pt>
 File: 2014_Osler_Figures/PmagRockmag.pdf Graphic file (type pdf)
  <use 2014_Osler_Figures/PmagRockmag.pdf>
-Package pdftex.def Info: 2014_Osler_Figures/PmagRockmag.pdf used on input line 589.
+Package pdftex.def Info: 2014_Osler_Figures/PmagRockmag.pdf used on input line 590.
 (pdftex.def)             Requested size: 492.0pt x 187.6128pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 589--590
+Underfull \hbox (badness 10000) in paragraph at lines 590--591
 
  []
 
 <2014_Osler_Figures/OslerStrat&EA.pdf, id=81, 580.1645pt x 527.69449pt>
 File: 2014_Osler_Figures/OslerStrat&EA.pdf Graphic file (type pdf)
  <use 2014_Osler_Figures/OslerStrat&EA.pdf>
-Package pdftex.def Info: 2014_Osler_Figures/OslerStrat&EA.pdf used on input line 595.
+Package pdftex.def Info: 2014_Osler_Figures/OslerStrat&EA.pdf used on input line 596.
 (pdftex.def)             Requested size: 393.6015pt x 358.0062pt.
 
 
-LaTeX Warning: Float too large for page by 11.87534pt on input line 598.
+LaTeX Warning: Float too large for page by 11.87534pt on input line 599.
 
 <2014_Osler_Figures/MonteCarlo.pdf, id=82, 850.69221pt x 275.68465pt>
 File: 2014_Osler_Figures/MonteCarlo.pdf Graphic file (type pdf)
  <use 2014_Osler_Figures/MonteCarlo.pdf>
-Package pdftex.def Info: 2014_Osler_Figures/MonteCarlo.pdf used on input line 601.
+Package pdftex.def Info: 2014_Osler_Figures/MonteCarlo.pdf used on input line 602.
 (pdftex.def)             Requested size: 492.0pt x 159.44289pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 601--602
+Underfull \hbox (badness 10000) in paragraph at lines 602--603
 
  []
 
@@ -362,9 +362,9 @@ Here is how much of TeX's memory you used:
  6075 multiletter control sequences out of 15000+600000
  13617 words of font info for 47 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 37i,6n,24p,3640b,449s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,6n,24p,3640b,447s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on /Users/polarwander/2014_Swanson-Hysell-et-al_Osler/2014_Osler_Manuscript_Files/.texpadtmp/2014_Osler_Manuscript.pdf (26 pages, 1969274 bytes).
+Output written on /Users/polarwander/2014_Swanson-Hysell-et-al_Osler/2014_Osler_Manuscript_Files/.texpadtmp/2014_Osler_Manuscript.pdf (26 pages, 1965643 bytes).
 PDF statistics:
  343 PDF objects out of 1000 (max. 8388607)
  158 compressed objects within 2 object streams

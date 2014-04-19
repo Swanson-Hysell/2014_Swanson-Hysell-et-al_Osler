@@ -1,4 +1,4 @@
-Study,Site_ID,Cleaning _step _Oe,Dec,Inc,kappa,n,site_lat,site_long
+Study,Site_ID,AFstep_Oe,dec_tc,inc_tc,kappa,n,site_lat,site_long
 Halls1974a,1,200,289.8,43.6,517,5,48.63,-88.11
 Halls1974a,2,150,285.7,42.0,243,5,48.64,-88.09
 Halls1974a,3,100,307.4,37.9,2485,5,48.64,-88.07

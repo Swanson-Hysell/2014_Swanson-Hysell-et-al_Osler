@@ -1,8 +1,0 @@
-The fisher mean parameters for SI_LowerThird_Directions are: 
-{'csd': 10.27016991125803, 'k': 62.203494067439664, 'n': 30, 'r': 29.533788247191406, 'alpha95': 3.3588968729980548, 'dec': 99.338721094603642, 'inc': -68.042883902179256}
-
-The fisher mean parameters for SI_MiddleThird_Directions are: 
-{'csd': 13.415586919446101, 'k': 36.454461136308502, 'n': 20, 'r': 19.478801787003345, 'alpha95': 5.4795120053251054, 'dec': 105.906122721936, 'inc': -64.898301440038821}
-
-The fisher mean parameters for SI_UpperThird_Directions are: 
-{'csd': 11.452725615164553, 'k': 50.020994936019207, 'n': 34, 'r': 33.340277016836438, 'alpha95': 3.5142065682074946, 'dec': 107.62449997258365, 'inc': -61.552568868987819}

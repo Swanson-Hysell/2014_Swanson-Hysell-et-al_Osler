@@ -1,9 +1,21 @@
 What needs to happen to .tex file after output from ipython nbconvert --to latex 2014_Osler_Data_Analysis.ipynb
 
-remove "Unknown Author" header info
-add reference to latex data table
-           \clearpage
-           \input{SimpsonIsland_OslerData.txt}
+Change title to:
+Supporting Materials for Confirmation of progressive plate motion during the Midcontinent Rift’s early magmatic stage from the Osler Volcanic Group, Ontario, Canada
+
+add 
+\usepackage{booktabs}
+\usepackage{moresize}
+\usepackage{caption}
+
+add reference to latex data table where it says display(HTML(data.to_html()))
+
+\clearpage
+\begin{table}[!h]
+\caption*{Simpson Island paleomagnetic site mean data}
+\ssmall
+\input{OslerData.txt}
+\end{table}
 
 Uploaded to AGU with this attached information:
 
