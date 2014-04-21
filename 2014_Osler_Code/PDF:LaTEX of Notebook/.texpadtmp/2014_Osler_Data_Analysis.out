@@ -1,22 +1,30 @@
-\BOOKMARK [1][-]{section.1}{Analysis of Simpson Island paleomagnetic data}{}% 1
-\BOOKMARK [2][-]{subsection.1.1}{Introduction}{section.1}% 2
-\BOOKMARK [2][-]{subsection.1.2}{Import libraries}{section.1}% 3
-\BOOKMARK [2][-]{subsection.1.3}{Import Simpson Island paleomagnetic data}{section.1}% 4
-\BOOKMARK [2][-]{subsection.1.4}{Comparison between data from the lower 1/3, middle 1/3 and upper 1/3 of Simpson Island stratigraphy}{section.1}% 5
-\BOOKMARK [3][-]{subsubsection.1.4.1}{Test for a common mean between paleomagnetic data from the lower, middle and upper thirds of the stratigraphy}{subsection.1.4}% 6
-\BOOKMARK [3][-]{subsubsection.1.4.2}{Plotting the data stratigraphically}{subsection.1.4}% 7
-\BOOKMARK [2][-]{subsection.1.5}{Comparing larger and smaller stratigraphic subsets of the Simpson Island data}{section.1}% 8
-\BOOKMARK [3][-]{subsubsection.1.5.1}{Comparing data from the lowermost 500 meters to data from the uppermost 500 meters}{subsection.1.5}% 9
-\BOOKMARK [3][-]{subsubsection.1.5.2}{Comparison between data from the lower 1/2 and upper 1/2 of Simpson Island stratigraphy}{subsection.1.5}% 10
-\BOOKMARK [2][-]{subsection.1.6}{Calculating and plotting mean pole positions}{section.1}% 11
-\BOOKMARK [3][-]{subsubsection.1.6.1}{Comparision between data from Halls \(1974\) study and Simpson Island VGPs}{subsection.1.6}% 12
-\BOOKMARK [3][-]{subsubsection.1.6.2}{Paleogeographic work outside of this IPython notebook using the software package GPlates.}{subsection.1.6}% 13
-\BOOKMARK [2][-]{subsection.1.7}{Plate rate estimate}{section.1}% 14
-\BOOKMARK [3][-]{subsubsection.1.7.1}{Calculating the NSVG pole}{subsection.1.7}% 15
-\BOOKMARK [3][-]{subsubsection.1.7.2}{Input pole data and simulation sample size}{subsection.1.7}% 16
-\BOOKMARK [3][-]{subsubsection.1.7.3}{Sampling the age distribution}{subsection.1.7}% 17
-\BOOKMARK [3][-]{subsubsection.1.7.4}{Sampling poles}{subsection.1.7}% 18
-\BOOKMARK [3][-]{subsubsection.1.7.5}{Calculate and graphically display the confidence interval on the minimum rate estimate implied by the Monte Carlo sampled pairs of sampled ages and paleolatitudes from the two poles}{subsection.1.7}% 19
-\BOOKMARK [3][-]{subsubsection.1.7.6}{Latitudinal change from beginning of early magmatic stage to main magmatic stage}{subsection.1.7}% 20
-\BOOKMARK [2][-]{subsection.1.8}{Lava flow thickness data}{section.1}% 21
-\BOOKMARK [2][-]{subsection.1.9}{The IPmag.py library of functions}{section.1}% 22
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Import libraries}{}% 2
+\BOOKMARK [1][-]{section.3}{Import Simpson Island paleomagnetic data}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Table of Simpson Island paleomagnetic data}{section.3}% 4
+\BOOKMARK [1][-]{section.4}{Comparison between data from the lower 1/3, middle 1/3 and upper 1/3 of Simpson Island stratigraphy}{}% 5
+\BOOKMARK [2][-]{subsection.4.1}{Test for a common mean between paleomagnetic data from the lower, middle and upper thirds of the stratigraphy}{section.4}% 6
+\BOOKMARK [3][-]{subsubsection.4.1.1}{Common mean tests between SI\137LowerThird\137Directions and SI\137MiddleThird\137Directions:}{subsection.4.1}% 7
+\BOOKMARK [3][-]{subsubsection.4.1.2}{Common mean tests between SI\137MiddleThird\137Directions and SI\137UpperThird\137Directions:}{subsection.4.1}% 8
+\BOOKMARK [3][-]{subsubsection.4.1.3}{Common mean tests between SI\137LowerThird\137Directions and SI\137UpperThird\137Directions:}{subsection.4.1}% 9
+\BOOKMARK [3][-]{subsubsection.4.1.4}{Common mean test on directions results summary}{subsection.4.1}% 10
+\BOOKMARK [3][-]{subsubsection.4.1.5}{Common mean tests between SI\137LowerThird\137Poles and SI\137UpperThird\137Poles:}{subsection.4.1}% 11
+\BOOKMARK [2][-]{subsection.4.2}{Plotting the data stratigraphically}{section.4}% 12
+\BOOKMARK [1][-]{section.5}{Comparing larger and smaller stratigraphic subsets of the Simpson Island data}{}% 13
+\BOOKMARK [2][-]{subsection.5.1}{Comparing data from the lowermost 500 meters to data from the uppermost 500 meters}{section.5}% 14
+\BOOKMARK [2][-]{subsection.5.2}{Comparison between data from the lower 1/2 and upper 1/2 of Simpson Island stratigraphy}{section.5}% 15
+\BOOKMARK [1][-]{section.6}{Calculating and plotting mean pole positions}{}% 16
+\BOOKMARK [1][-]{section.7}{Comparision between Halls \(1974\) data and Simpson Island VGPs}{}% 17
+\BOOKMARK [2][-]{subsection.7.1}{Common mean tests between Halls \(1974\) data and the data from the lower third of the Simpson Island stratigraphy}{section.7}% 18
+\BOOKMARK [2][-]{subsection.7.2}{Common mean tests between Halls \(1974\) data and the data from the upper third of the Simpson Island stratigraphy}{section.7}% 19
+\BOOKMARK [2][-]{subsection.7.3}{Combining the data from the upper third of the Simpson Island stratigraphy and the Halls \(1974\) reversed polarity data into a single pole for the upper portion of the reversed Osler Group stratigraphy}{section.7}% 20
+\BOOKMARK [1][-]{section.8}{Paleogeographic work outside of this IPython notebook using the software package GPlates.}{}% 21
+\BOOKMARK [1][-]{section.9}{Plate rate estimate}{}% 22
+\BOOKMARK [2][-]{subsection.9.1}{Calculating the NSVG pole}{section.9}% 23
+\BOOKMARK [2][-]{subsection.9.2}{Input pole data and simulation sample size}{section.9}% 24
+\BOOKMARK [2][-]{subsection.9.3}{Sampling the age distribution}{section.9}% 25
+\BOOKMARK [2][-]{subsection.9.4}{Sampling pole distributions}{section.9}% 26
+\BOOKMARK [2][-]{subsection.9.5}{Calculate and graphically display the confidence interval on the minimum rate estimate implied by the Monte Carlo sampled pairs of sampled ages and paleolatitudes from the two poles}{section.9}% 27
+\BOOKMARK [2][-]{subsection.9.6}{Latitudinal change from early in the early magmatic stage to the main magmatic stage}{section.9}% 28
+\BOOKMARK [1][-]{section.10}{Lava flow thickness data}{}% 29
+\BOOKMARK [1][-]{section.11}{The IPmag.py library of functions}{}% 30
