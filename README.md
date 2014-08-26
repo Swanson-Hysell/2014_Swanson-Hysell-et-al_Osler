@@ -1,6 +1,10 @@
 Overview
 ===============================
-This repository contains a revised manuscript for publication at the American Geophysical Union journal entitled "Geochemistry Geophysic Geosystems" along with the raw data and code used for the manuscript's data analysis. The manuscript is entitled "Confirmation of progressive plate motion during the Midcontinent Rift's early magmatic stage from the Osler Volcanic Group, Ontario, Canada" with the authors being: Nicholas. L. Swanson-Hysell, Angus A. Vaughan, Monica R. Mustain, and Kristofer Asp.
+This repository contains materials associated with this published article:
+
+Swanson-Hysell, N.L., Vaughan, A.A., Mustain, M.R., and Asp, K.E.  Confirmation of progressive plate motion during the Midcontinent Rift’s early magmatic stage from the Osler Volcanic Group, Ontario, Canada. Geochemistry Geophysics Geosystems, (2014), doi:10.1002/2013GC005180
+
+The final preprint of the article along with the raw data and code used for the manuscript's data analysis are included in the repository. The final typeset article can be found here: http://doi.org/10.1002/2013GC005180 or http://128.48.120.176/uc/item/9qx4j3zq
 
 Contents
 ===============================
